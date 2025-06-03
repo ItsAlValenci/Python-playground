@@ -40,16 +40,20 @@ while game_is_on:
         scoreboard.score_increase()
 
     # Detect collision with wall
-    if (snake.head.xcor() > 280 or snake.head.xcor() < -280 or 
+    if (snake.head.xcor() > 280 or snake.head.xcor() < -290 or 
         snake.head.ycor() > 280 or snake.head.ycor() < -280):
-        game_is_on = False
-        scoreboard.gameover()
+            scoreboard.reset()
+            snake.reset()
+            time.sleep(0.5)
+
 
     # Detect collision with tail
-    for block in snake.snake[1:]:  # Skip the head
+    for block in snake.body[1:]:  # Skip the head
         if snake.head.distance(block) < 10:
-            game_is_on = False
-            scoreboard.gameover()
+            scoreboard.reset()
+            snake.reset()
+            time.sleep(0.5)
+
 
      
 

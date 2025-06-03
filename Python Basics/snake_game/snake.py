@@ -9,9 +9,9 @@ RIGHT = 0
 class Snake:
 
     def __init__(self):
-        self.snake = []
+        self.body = []
         self.create_snake()
-        self.head = self.snake[0]
+        self.head = self.body[0]
 
     def create_snake(self):
         starting_positions = [(0, 0), (-20, 0), (-40, 0)]
@@ -23,17 +23,17 @@ class Snake:
         new_block.color("white")
         new_block.penup()
         new_block.goto(position)
-        self.snake.append(new_block)
+        self.body.append(new_block)
 
     def extend(self):
-        # Add a block to the end of the snake
-        self.add_block(self.snake[-1].position())
+        # Add a block to the end of the body
+        self.add_block(self.body[-1].position())
 
     def move(self):
-        for segment in range(len(self.snake) - 1, 0, -1):
-            new_x = self.snake[segment - 1].xcor()
-            new_y = self.snake[segment - 1].ycor()
-            self.snake[segment].goto(new_x, new_y)
+        for segment in range(len(self.body) - 1, 0, -1):
+            new_x = self.body[segment - 1].xcor()
+            new_y = self.body[segment - 1].ycor()
+            self.body[segment].goto(new_x, new_y)
         self.head.forward(MOVE_DISTANCE)
 
     def up(self):
@@ -51,3 +51,11 @@ class Snake:
     def right(self):
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
+
+    def reset(self):
+        for part in self.body:
+            part.goto(1000,1000)
+        self.body.clear()
+        self.create_snake()
+        self.head = self.body[0]
+        
