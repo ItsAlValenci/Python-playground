@@ -5,13 +5,15 @@ from snake import Snake
 from food import Apple
 from scoreboard import Scoreboard
 
+
+     
+
 #screen setup
 screen = Screen()
 screen.setup(width= 600, height=600)
 screen.bgcolor("black")
 screen.title("Skeany Snake Game")
 screen.tracer(0)
-
 
 snake = Snake()
 apple = Apple()
