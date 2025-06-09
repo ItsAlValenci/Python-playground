@@ -89,3 +89,9 @@ listbox.bind("<<ListboxSelect>>", listbox_used)
 listbox.pack()
 window.mainloop() # <-- needed to mantain the window open if there no more core
 
+
+# For Layouts: pack and greed cant be mixed
+# label.pack() <-- (displays the object in a logical way but with reduced adjustments )
+# laber.place(x= 0 , Y=0) <-- (displays the object according to the coordinateup to down, messy to handle if you have many objects )
+# label.grid(column= 1, row= 1,) <-- (displays the object according to the greed placement. up to down )
+
