@@ -1,3 +1,0 @@
-
-test 1 | generic@outlook.com | yay 
-test 2 | generic@outlook.com | yay 2 
