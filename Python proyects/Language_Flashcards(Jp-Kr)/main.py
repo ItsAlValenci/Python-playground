@@ -30,6 +30,8 @@ icone_cross = ("./images/wrong.png")
 current_word = {}
 to_learn = {}
 
+flip_timer = None
+
 active_language = "JP"
 
 # ---------------------------- GETTING LANGUAGE ------------------------------- # 
@@ -79,9 +81,6 @@ def next_word():
     canvas.itemconfig(canvas_image, image=front_card)
     flip_timer = window.after(5000, flip_card)
 
-
-
-# ---------------------------- T ------------------------------- # 
 # def flip_card():
 #     canvas.itemconfig(language_label,text= "English",fill= "white")
 #     canvas.itemconfig(word_label,text= current_word["English"], fill= "white")
@@ -117,15 +116,53 @@ def i_know_it():
 def i_dont_know_it():
     next_word()
 
+# ---------------------------- INTERACTIONS ------------------------------- # 
+def show_language_selection():
+    canvas.itemconfig(canvas_image, image=front_card)
+    canvas.itemconfig(language_label, text="", fill="black")
+    canvas.itemconfig(word_label, text="", fill="black")
+
+    # Load flag images
+    global flag_jp_img, flag_kr_img, flag_jp_btn, flag_kr_btn
+    flag_jp_img = PhotoImage(file="images/Japan_flag_icon.png")
+    flag_kr_img = PhotoImage(file="images/Korean_flag_icon.png")
+
+    # Create buttons for flags
+    flag_jp_btn = Button(image=flag_jp_img, highlightthickness=0,borderwidth=0, command=lambda: start_game("JP"))
+    flag_kr_btn = Button(image=flag_kr_img, highlightthickness=0,borderwidth=0, command=lambda: start_game("KR"), foreground= "white")
+
+    # Position the flag buttons on the canvas
+    canvas.itemconfig(language_label,text= "Choose a Language", font=FONT_LANGUAGE, fill= "black")
+    canvas.coords(language_label, 400, 100) 
+    canvas.create_window(210, 300, window=flag_jp_btn)
+    canvas.create_window(590, 300, window=flag_kr_btn)
+
+def start_game(lang_code):
+    global active_language, to_learn
+    active_language = lang_code
+    to_learn = load_language_data(active_language)
+
+    # Remove flag buttons
+    flag_jp_btn.destroy()
+    flag_kr_btn.destroy()
+
+
+    # Displaying Buttons
+    known_button.grid()
+    unknown_button.grid()
+
+    next_word()
+
 
 # ---------------------------- UI ------------------------------- # 
+
+
 
 window = Tk()
 window.title("Language Flashcards for Jp & Kr")
 window.config(padx=50, pady= 50, bg=BACKGROUND_COLOR)
 
-#timer for the car reveal
-flip_timer = window.after(5000, flip_card)
+flip_timer = window.after(0, lambda: None)
 
 #Loading Card Images
 front_card = PhotoImage(file= icone_card)
@@ -144,13 +181,16 @@ yay_button = PhotoImage(file= icone_check)
 ney_button = PhotoImage(file= icone_cross)
 
 #creating Buttons
-known_button = Button(image= yay_button, highlightthickness=0, command=i_know_it)
+known_button = Button(image= yay_button, highlightthickness=0,borderwidth=0, command=i_know_it)
 known_button.grid(column=1,row=1)
+known_button.grid_remove()
 
-unknown_button = Button(image= ney_button, highlightthickness=0, command= i_dont_know_it)
+unknown_button = Button(image= ney_button, highlightthickness=0,borderwidth=0, command= i_dont_know_it)
 unknown_button.grid(column=0,row=1)
+unknown_button.grid_remove()
 
-next_word()
+
+show_language_selection()
 
 
 window.mainloop()
