@@ -1,1809 +1,1809 @@
-"Headword,Reading,Romanized spelling,English"
-"いる,イル,iru,to be (verb - animate)"
-"こと,コト,koto,thing/matter"
-"の,ノ,no,of (possessive particle)"
-"する,スル,suru,to do (verb)"
-"ある,アル,aru,to be/exist (verb - inanimate)"
-"なる,ナル,naru,to become (verb)"
-"よう,ヨウ,you,appearance/manner"
-"その,ソノ,sono,that (pre-noun)"
-"できる,デキル,dekiru,can/to be able (verb)"
-"この,コノ,kono,this (pre-noun)"
-"思う,オモウ,omou,to think (verb)"
-"言う,イウ,iu,to say (verb)"
-"もの,モノ,mono,thing/object"
-"ため,タメ,tame,for the sake of"
-"人,ヒト,hito,person/people"
-"場合,バアイ,baai,case/situation"
-"ない,ナイ,nai,to not exist/not have (verb)"
-"くる,クル,kuru,to come (verb)"
-"とき,トキ,toki,time/when"
-"自分,ジブン,jibun,myself/oneself"
-"いく,イク,iku,to go (verb)"
-"ほう,ホウ,hou,direction/method"
-"行う,オコナウ,okonau,to perform/conduct (verb)"
-"ん,ン,n,(informal sentence ending)"
-"下さる,クダサル,kudasaru,to give (honorific verb)"
-"見る,ミル,miru,to see/look (verb)"
-"よい,ヨイ,yoi,good (adj)"
-"考える,カンガエル,kangaeru,to think (verb)"
-"必要な,ヒツヨウナ,hitsuyouna,necessary (adj)"
-"必要,ヒツヨウ,hitsuyou,necessity"
-"しまう,シマウ,shimau,to finish/put away (verb)"
-"なか,ナカ,naka,inside"
-"多い,オオイ,ooi,many/numerous (adj)"
-"持つ,モツ,motsu,to have/hold (verb)"
-"おる,オル,oru,to be (humble verb)"
-"月,ツキ,tsuki,moon/month"
-"今,イマ,ima,now"
-"分かる,ワカル,wakaru,to understand (verb)"
-"問題,モンダイ,mondai,problem/question"
-"いい,イイ,ii,good (adj)"
-"情報,ジョウホウ,jouhou,information"
-"ところ,トコロ,tokoro,place"
-"使う,ツカウ,tsukau,to use (verb)"
-"他,ホカ,hoka,other/another"
-"出る,デル,deru,to go out/exit (verb)"
-"いただく,イタダク,itadaku,to receive (humble verb)"
-"みる,ミル,miru,to see/look (verb)"
-"子供,コドモ,kodomo,child"
-"どう,ドウ,dou,how"
-"前,マエ,mae,front/before"
-"本,ホン,hon,book"
-"力,チカラ,chikara,power/strength"
-"時間,ジカン,jikan,time/hour"
-"可能な,カノウナ,kanouna,possible (adj)"
-"可能,カノウ,kanou,possibility"
-"作る,ツクル,tsukuru,to make (verb)"
-"やる,ヤル,yaru,to do (verb - casual)"
-"家,ウチ,uchi,home"
-"社会,シャカイ,shakai,society"
-"受ける,ウケル,ukeru,to receive (verb)"
-"くれる,クレル,kureru,to give (verb - to me)"
-"関係,カンケイ,kankei,relationship"
-"知る,シル,shiru,to know (verb)"
-"体,カラダ,karada,body"
-"高い,タカイ,takai,high/expensive (adj)"
-"わけ,ワケ,wake,reason"
-"入る,ハイル,hairu,to enter (verb)"
-"以上,イジョウ,ijou,more than/that's all"
-"行く,イク,iku,to go (verb)"
-"聞く,キク,kiku,to listen/ask (verb)"
-"気,キ,ki,spirit/mood"
-"同じ,オナジ,onaji,same (adj)"
-"てる,テル,teru,(casual progressive form)"
-"上,ウエ,ue,above"
-"生活,セイカツ,seikatsu,daily life"
-"全て,スベテ,subete,all"
-"世界,セカイ,sekai,world"
-"方法,ホウホウ,houhou,method"
-"研究,ケンキュウ,kenkyuu,research"
-"感じる,カンジル,kanjiru,to feel (verb)"
-"一つ,ヒトツ,hitotsu,one"
-"事業,ジギョウ,jigyou,business"
-"地域,チイキ,chiiki,region"
-"利用,リヨウ,riyou,use"
-"仕事,シゴト,shigoto,work"
-"書く,カク,kaku,to write (verb)"
-"そう,ソウ,sou,so/that way"
-"企業,キギョウ,kigyou,company"
-"環境,カンキョウ,kankyou,environment"
-"さらに,サラニ,sarani,furthermore"
-"来る,クル,kuru,to come (verb)"
-"現在,ゲンザイ,genzai,present/now"
-"話,ハナシ,hanashi,talk/story"
-"のち,ノチ,nochi,later/after"
-"活動,カツドウ,katsudou,activity"
-"人間,ニンゲン,ningen,human"
-"内容,ナイヨウ,naiyou,content"
-"大きい,オオキイ,ookii,big (adj)"
-"保険,ホケン,hoken,insurance"
-"結果,ケッカ,kekka,result"
-"状態,ジョウタイ,joutai,condition"
-"心,ココロ,kokoro,heart/mind"
-"言葉,コトバ,kotoba,word/language"
-"しれる,シレル,shireru,to become known (verb)"
-"どの,ドノ,dono,which"
-"教育,キョウイク,kyouiku,education"
-"やすい,ヤスイ,yasui,easy/cheap (adj)"
-"状況,ジョウキョウ,joukyou,situation"
-"意味,イミ,imi,meaning"
-"特に,トクニ,tokuni,especially"
-"重要な,ジュウヨウナ,juuyouna,important (adj)"
-"重要,ジュウヨウ,juuyou,importance"
-"おく,オク,oku,to put (verb)"
-"技術,ギジュツ,gijutsu,technology"
-"管理,カンリ,kanri,management"
-"時代,ジダイ,jidai,era"
-"部分,ブブン,bubun,part"
-"個人,コジン,kojin,individual"
-"もう,モウ,mou,already"
-"大きな,オオキナ,ookina,big (adj)"
-"少し,スコシ,sukoshi,a little"
-"違う,チガウ,chigau,to differ (verb)"
-"先生,センセイ,sensei,teacher"
-"とても,トテモ,totemo,very"
-"サービス,サービス,sabisu,service"
-"女性,ジョセイ,josei,woman"
-"強い,ツヨイ,tsuyoi,strong (adj)"
-"効果,コウカ,kouka,effect"
-"得る,エル,eru,to obtain (verb)"
-"今回,コンカイ,konkai,this time"
-"そんな,ソンナ,sonna,such"
-"見える,ミエル,mieru,to be visible (verb)"
-"学校,ガッコウ,gakkou,school"
-"基本,キホン,kihon,basics"
-"実際,ジッサイ,jissai,reality"
-"出す,ダス,dasu,to take out (verb)"
-"様々な,サマザマナ,samazamana,various (adj)"
-"様々,サマザマ,samazama,various"
-"手,テ,te,hand"
-"目,メ,me,eye"
-"入れる,イレル,ireru,to put in (verb)"
-"次,ツギ,tsugi,next"
-"日,ヒ,hi,day"
-"もらう,モラウ,morau,to receive (verb)"
-"一般,イッパン,ippan,general"
-"委員,イイン,iin,committee member"
-"以下,イカ,ika,below"
-"致す,イタス,itasu,to do (humble verb)"
-"間,アイダ,aida,interval/between"
-"つく,ツク,tsuku,to arrive (verb)"
-"言える,ユエル,yueru,to be sayable (verb)"
-"国,クニ,kuni,country"
-"経済,ケイザイ,keizai,economy"
-"目的,モクテキ,mokuteki,purpose"
-"変わる,カワル,kawaru,to change (verb)"
-"自然な,シゼンナ,shizenna,natural (adj)"
-"自然,シゼン,shizen,nature"
-"制度,セイド,seido,system"
-"障害,ショウガイ,shougai,obstacle"
-"治療,チリョウ,chiryou,treatment"
-"場所,バショ,basho,place"
-"車,クルマ,kuruma,car"
-"労働,ロウドウ,roudou,labor"
-"やはり,ヤハリ,yahari,as expected"
-"調査,チョウサ,chousa,investigation"
-"商品,ショウヒン,shouhin,product"
-"そういう,ソウイウ,souiu,that kind of"
-"読む,ヨム,yomu,to read (verb)"
-"後,アト,ato,after"
-"呼ぶ,ヨブ,yobu,to call (verb)"
-"医療,イリョウ,iryou,medical care"
-"よく,ヨーク,yoku,often"
-"システム,システム,shisutemu,system"
-"まず,マズ,mazu,first of all"
-"者,モノ,mono,person"
-"対象,タイショウ,taishou,target"
-"少ない,スクナイ,sukunai,few (adj)"
-"大切な,タイセツナ,taisetsuna,important (adj)"
-"大切,タイセツ,taisetsu,importance"
-"本当に,ホントウニ,hontouni,truly"
-"相手,アイテ,aite,partner"
-"機能,キノウ,kinou,function"
-"会社,ガイシャ,gaisha,company"
-"契約,ケイヤク,keiyaku,contract"
-"食べる,タベル,taberu,to eat (verb)"
-"写真,シャシン,shashin,photograph"
-"家族,カゾク,kazoku,family"
-"かかる,カカル,kakaru,to take (time/money) (verb)"
-"利用する,リヨウスル,riyousuru,to use (verb)"
-"求める,モトメル,motomeru,to seek (verb)"
-"つける,ツケル,tsukeru,to attach (verb)"
-"使用する,シヨウスル,shiyousuru,to use (verb)"
-"大学,ダイガク,daigaku,university"
-"施設,シセツ,shisetsu,facility"
-"以外,イガイ,igai,other than"
-"気持ち,キモチ,kimochi,feeling"
-"計画,ケイカク,keikaku,plan"
-"水,ミズ,mizu,water"
-"悪い,ワルイ,warui,bad (adj)"
-"まったく,マッタク,mattaku,completely"
-"化する,カスル,kasuru,to change into (verb)"
-"与える,アタエル,ataeru,to give (verb)"
-"機関,キカン,kikan,institution"
-"理由,リユウ,riyuu,reason"
-"新しい,アタラシイ,atarashii,new (adj)"
-"自身,ジシン,jishin,oneself"
-"患者,カンジャ,kanja,patient"
-"形,カタチ,katachi,shape"
-"欲しい,ホシイ,hoshii,wanted (adj)"
-"含む,フクム,fukumu,to include (verb)"
-"いける,イケル,ikeru,can go (verb)"
-"それぞれ,ソレゾレ,sorezore,each"
-"お客様,オキャクサマ,okyakusama,customer"
-"いただける,イタダケル,itadakeru,can receive (verb)"
-"うち,ウチ,uchi,home"
-"電話,デンワ,denwa,telephone"
-"意見,イケン,iken,opinion"
-"最初,サイショ,saisho,first"
-"専門,センモン,senmon,specialty"
-"今後,コンゴ,kongo,from now on"
-"かなり,カナリ,kanari,considerably"
-"すぐ,スグ,sugu,immediately"
-"非常な,ヒジョウナ,hijouna,extreme (adj)"
-"非常,ヒジョウ,hijou,emergency"
-"影響,エイキョウ,eikyou,influence"
-"期間,キカン,kikan,period"
-"必ず,カナラズ,kanarazu,without fail"
-"示す,シメス,shimesu,to show (verb)"
-"皆,ミンナ,minna,everyone"
-"サイト,サイト,saito,site"
-"点,テン,ten,point"
-"開発,カイハツ,kaihatsu,development"
-"病院,ビョウイン,byouin,hospital"
-"経験,ケイケン,keiken,experience"
-"教える,オシエル,oshieru,to teach (verb)"
-"まだ,マダ,mada,still"
-"長い,ナガイ,nagai,long (adj)"
-"支援,シエン,shien,support"
-"責任,セキニン,sekinin,responsibility"
-"難しい,ムズカシイ,muzukashii,difficult (adj)"
-"安全な,アンゼンナ,anzenna,safe (adj)"
-"安全,アンゼン,anzen,safety"
-"ちょっと,チョット,chotto,a little"
-"認める,ミトメル,mitomeru,to recognize (verb)"
-"一緒,イッショ,issho,together"
-"今日,キョウ,kyou,today"
-"相談,ソウダン,soudan,consultation"
-"使用,シヨウ,shiyou,use"
-"かける,カケル,kakeru,to hang (verb)"
-"はず,ハズ,hazu,should"
-"取る,トル,toru,to take (verb)"
-"評価,ヒョウカ,hyouka,evaluation"
-"生きる,イキル,ikiru,to live (verb)"
-"原因,ゲンイン,genin,cause"
-"あまり,アマリ,amari,not much"
-"進む,ススム,susumu,to advance (verb)"
-"感じ,カンジ,kanji,feeling"
-"データ,データ,deta,data"
-"ほとんど,ホトンド,hotondo,mostly"
-"作品,サクヒン,sakuhin,work"
-"思い,オモイ,omoi,thought"
-"説明,セツメイ,setsumei,explanation"
-"最後,サイゴ,saigo,last"
-"先,サキ,saki,ahead"
-"経営,ケイエイ,keiei,management"
-"能力,ノウリョク,nouryoku,ability"
-"紹介する,ショウカイスル,shoukaisuru,to introduce (verb)"
-"声,コエ,koe,voice"
-"最近,サイキン,saikin,recently"
-"指導,シドウ,shidou,guidance"
-"合わせる,アワセル,awaseru,to match (verb)"
-"子,コ,ko,child"
-"異なる,コトナル,kotonaru,to differ (verb)"
-"まま,ママ,mama,as it is"
-"最も,モットモ,mottomo,most"
-"選ぶ,エラブ,erabu,to choose (verb)"
-"これから,コレカラ,korekara,from now on"
-"国民,コクミン,kokumin,national"
-"人々,ヒトビト,hitobito,people"
-"初めて,ハジメテ,hajimete,for the first time"
-"簡単な,カンタンナ,kantanna,easy (adj)"
-"簡単,カンタン,kantan,easy"
-"条件,ジョウケン,jouken,condition"
-"いろいろ,イロイロ,iroiro,various"
-"文化,ブンカ,bunka,culture"
-"組織,ソシキ,soshiki,organization"
-"対応,タイオウ,taiou,response"
-"音,オト,oto,sound"
-"自由な,ジユウナ,jiyuuna,free (adj)"
-"自由,ジユウ,jiyuu,freedom"
-"行動,コウドウ,koudou,action"
-"運動,ウンドウ,undou,exercise"
-"とる,トル,toru,to take (verb)"
-"楽しい,タノシイ,tanoshii,fun (adj)"
-"対策,タイサク,taisaku,countermeasure"
-"業務,ギョウム,gyoumu,business"
-"飲む,ノム,nomu,to drink (verb)"
-"神,カミ,kami,god"
-"増える,フエル,fueru,to increase (verb)"
-"国際,コクサイ,kokusai,international"
-"関わる,カカワル,kakawaru,to be involved (verb)"
-"政府,セイフ,seifu,government"
-"続く,ツヅク,tsuzuku,to continue (verb)"
-"もっと,モット,motto,more"
-"命,イノチ,inochi,life"
-"置く,オク,oku,to put (verb)"
-"買う,カウ,kau,to buy (verb)"
-"もちろん,モチロン,mochiron,of course"
-"より,ヨリ,yori,more than"
-"質問,シツモン,shitsumon,question"
-"下,シタ,shita,below"
-"精神,セイシン,seishin,spirit"
-"作業,サギョウ,sagyou,work"
-"続ける,ツヅケル,tsuzukeru,to continue (verb)"
-"道,ミチ,michi,road"
-"際,サイ,sai,occasion"
-"基準,キジュン,kijun,standard"
-"働く,ハタラク,hataraku,to work (verb)"
-"こんな,コンナ,konna,like this"
-"頭,アタマ, カシラ,atama, kashira,head"
-"健康な,ケンコウナ,kenkouna,healthy (adj)"
-"健康,ケンコウ,kenkou,health"
-"メール,メール,meru,email"
-"どんな,ドンナ,donna,what kind"
-"確認,カクニン,kakunin,confirmation"
-"当時,トウジ,touji,at that time"
-"確認する,カクニンスル,kakuninsuru,to confirm (verb)"
-"早い,ハヤイ,hayai,early (adj)"
-"すでに,スデニ,sudeni,already"
-"ふつう,フツウ,futsuu,normal"
-"映画,エイガ,eiga,movie"
-"具体,グタイ,gutai,concrete"
-"身,ミ,mi,body"
-"価値,カチ,kachi,value"
-"意識,イシキ,ishiki,consciousness"
-"決める,キメル,kimeru,to decide (verb)"
-"自己,ジコ,jiko,self"
-"歴史,レキシ,rekishi,history"
-"主義,シュギ,shugi,principle"
-"伝える,ツタエル,tsutaeru,to convey (verb)"
-"知識,チシキ,chishiki,knowledge"
-"物,モノ,mono,thing"
-"時期,ジキ,jiki,period"
-"行為,コウイ,koui,act"
-"過ぎる,スギル,sugiru,to pass (verb)"
-"理解,リカイ,rikai,understanding"
-"進める,ススメル,susumeru,to advance (verb)"
-"中心,チュウシン,chuushin,center"
-"学ぶ,マナブ,manabu,to learn (verb)"
-"大変な,タイヘンナ,taihenna,tough (adj)"
-"大変,タイヘン,taihen,very"
-"頃,コロ,koro,around"
-"取り引き,トリヒキ,torihiki,transaction"
-"存在する,ソンザイスル,sonzaisuru,to exist (verb)"
-"姿,スガタ,sugata,figure"
-"用いる,モチイル,mochiiru,to use (verb)"
-"学生,ガクセイ,gakusei,student"
-"年金,ネンキン,nenkin,pension"
-"生まれる,ウマレル,umareru,to be born (verb)"
-"起こる,オコル,okoru,to occur (verb)"
-"顔,カオ,kao,face"
-"生産,セイサン,seisan,production"
-"始める,ハジメル,hajimeru,to begin (verb)"
-"存在,ソンザイ,sonzai,existence"
-"なぜ,ナゼ,naze,why"
-"始まる,ハジマル,hajimaru,to begin (verb)"
-"残る,ノコル,nokoru,to remain (verb)"
-"定める,サダメル,sadameru,to establish (verb)"
-"検査,ケンサ,kensa,inspection"
-"政治,セイジ,seiji,politics"
-"地方,チホウ,chihou,region"
-"試験,シケン,shiken,exam"
-"変化,ヘンカ,henka,change"
-"うまい,ウマイ,umai,skilled/delicious (adj)"
-"参加,サンカ,sanka,participation"
-"家庭,カテイ,katei,household"
-"発生する,ハッセイスル,hasseisuru,to occur (verb)"
-"変える,カエル,kaeru,to change (verb)"
-"男性,ダンセイ,dansei,male"
-"事実,ジジツ,jijitsu,fact"
-"こう,コウ,kou,like this"
-"実施する,ジッシスル,jisshisuru,to implement (verb)"
-"直接な,チョクセツナ,chokusetsuna,direct (adj)"
-"直接,チョクセツ,chokusetsu,directly"
-"事故,ジコ,jiko,accident"
-"方向,ホウコウ,houkou,direction"
-"当然,トウゼン,touzen,naturally"
-"しっかり,シッカリ,shikkari,firmly"
-"例,レイ,rei,example"
-"提供する,テイキョウスル,teikyousuru,to provide (verb)"
-"目指す,メザス,mezasu,to aim (verb)"
-"歩く,アルク,aruku,to walk (verb)"
-"保護,ホゴ,hogo,protection"
-"構造,コウゾウ,kouzou,structure"
-"人生,ジンセイ,jinsei,life"
-"終わる,オワル,owaru,to end (verb)"
-"理解する,リカイスル,rikaisuru,to understand (verb)"
-"なかなか,ナカナカ,nakanaka,very"
-"レベル,レベル,reberu,level"
-"英語,エイゴ,eigo,English"
-"価格,カカク,kakaku,price"
-"描く,エガク,egaku,to draw (verb)"
-"いつも,イツモ,itsumo,always"
-"みたい,ミタイ,mitai,like"
-"目標,モクヒョウ,mokuhyou,goal"
-"行政,ギョウセイ,gyousei,administration"
-"足,アシ,ashi,foot"
-"違い,チガイ,chigai,difference"
-"花,ハナ,hana,flower"
-"センター,センター,senta,center"
-"説明する,セツメイスル,setsumeisuru,to explain (verb)"
-"開く,ヒラク,hiraku,to open (verb)"
-"皆さん,ミナサン,minasan,everyone"
-"もし,モシ,moshi,if"
-"お金,オカネ,okane,money"
-"これらの,コレラノ,korerano,these"
-"資料,シリョウ,shiryou,materials"
-"頑張る,ガンバル,ganbaru,to do one's best (verb)"
-"病気,ビョウキ,byouki,illness"
-"当社,トウシャ,tousha,our company"
-"住宅,ジュウタク,juutaku,residence"
-"深い,フカイ,fukai,deep (adj)"
-"分野,ブンヤ,bunya,field"
-"守る,マモル,mamoru,to protect (verb)"
-"名前,ナマエ,namae,name"
-"以前,イゼン,izen,before"
-"症状,ショウジョウ,shoujou,symptom"
-"現実,ゲンジツ,genjitsu,reality"
-"課題,カダイ,kadai,assignment"
-"すごい,スゴイ,sugoi,amazing (adj)"
-"種類,シュルイ,shurui,type"
-"沢山な,タクサンナ,takusanna,many (adj)"
-"沢山,タクサン,takusan,many"
-"消費,ショウヒ,shouhi,consumption"
-"団体,ダンタイ,dantai,organization"
-"戻る,モドル,modoru,to return (verb)"
-"男,オトコ,otoko,man"
-"金融,キンユウ,kinyuu,finance"
-"科学,カガク,kagaku,science"
-"近い,チカイ,chikai,near (adj)"
-"製品,セイヒン,seihin,product"
-"限り,カギリ,kagiri,limit"
-"親,オヤ,oya,parent"
-"ポイント,ポイント,pointo,point"
-"含める,フクメル,fukumeru,to include (verb)"
-"店,ミセ,mise,shop"
-"参加する,サンカスル,sankasuru,to participate (verb)"
-"同様な,ドウヨウナ,douyouna,similar (adj)"
-"同様,ドウヨウ,douyou,similarly"
-"政策,セイサク,seisaku,policy"
-"部屋,ヘヤ,heya,room"
-"事件,ジケン,jiken,incident"
-"ページ,ページ,peji,page"
-"エネルギー,エネルギー,enerugi,energy"
-"市場,イチバ,ichiba,market"
-"段階,ダンカイ,dankai,stage"
-"特別な,トクベツナ,tokubetsuna,special (adj)"
-"特別,トクベツ,tokubetsu,special"
-"続ける,ツヅケル,tsuzukeru,to continue (verb)"
-"規定,キテイ,kitei,regulation"
-"全国,ゼンコク,zenkoku,nationwide"
-"負担,フタン,futan,burden"
-"同時に,ドウジニ,doujini,simultaneously"
-"土地,トチ,tochi,land"
-"通常,ツウジョウ,tsuujou,usually"
-"低い,ヒクイ,hikui,low (adj)"
-"明らかな,アキラカナ,akirakana,obvious (adj)"
-"明らか,アキラカ,akiraka,clear"
-"被害,ヒガイ,higai,damage"
-"報告,ホウコク,houkoku,report"
-"小さい,チイサイ,chiisai,small (adj)"
-"考え,カンガエ,kangae,thought"
-"都市,トシ,toshi,city"
-"広い,ヒロイ,hiroi,wide (adj)"
-"費用,ヒヨウ,hiyou,cost"
-"設定,セッテイ,settei,setting"
-"正しい,タダシイ,tadashii,correct (adj)"
-"手続き,テツヅキ,tetsuzuki,procedure"
-"海外,カイガイ,kaigai,overseas"
-"投資,トウシ,toushi,investment"
-"将来,ショウライ,shourai,future"
-"連絡,レンラク,renraku,contact"
-"新たな,アラタナ,aratana,new (adj)"
-"新た,アラタ,arata,new"
-"つながる,ツナガル,tsunagaru,to connect (verb)"
-"そのまま,ソノママ,sonomama,as it is"
-"場,バ,ba,place"
-"変更,ヘンコウ,henkou,change"
-"表示する,ヒョウジスル,hyoujisuru,to display (verb)"
-"販売,ハンバイ,hanbai,sale"
-"法律,ホウリツ,houritsu,law"
-"二つ,フタツ,futatsu,two"
-"注意,チュウイ,chuui,caution"
-"自ら,ミズカラ,mizukara,oneself"
-"十分な,ジュウブンナ,juubunna,enough (adj)"
-"十分,ジュウブン,juubun,sufficiently"
-"取り組む,トリクム,torikumu,to tackle (verb)"
-"外国,ガイコク,gaikoku,foreign country"
-"身体,シンタイ,shintai,body"
-"過去,カコ,kako,past"
-"送る,オクル,okuru,to send (verb)"
-"あの,アノ,ano,that"
-"登録,トウロク,touroku,registration"
-"生じる,ショウジル,shoujiru,to occur (verb)"
-"気づく,キヅク,kizuku,to notice (verb)"
-"お願いする,オネガイスル,onegaisuru,to request (verb)"
-"学習,ガクシュウ,gakushuu,study"
-"面白い,オモシロイ,omoshiroi,interesting (adj)"
-"逆な,ギャクナ,gyakuna,opposite (adj)"
-"逆,ギャク,gyaku,reverse"
-"こういう,コウイウ,kouiu,this kind"
-"楽しむ,タノシム,tanoshimu,to enjoy (verb)"
-"夢,ユメ,yume,dream"
-"帰る,カエル,kaeru,to return (verb)"
-"完全な,カンゼンナ,kanzenna,complete (adj)"
-"完全,カンゼン,kanzen,completely"
-"乗る,ノル,noru,to ride (verb)"
-"覚える,オボエル,oboeru,to memorize (verb)"
-"述べる,ノベル,noberu,to state (verb)"
-"走る,ハシル,hashiru,to run (verb)"
-"昔,ムカシ,mukashi,old days"
-"協力,キョウリョク,kyouryoku,cooperation"
-"にくい,ニクイ,nikui,difficult (adj)"
-"所,トコロ,tokoro,place"
-"範囲,ハンイ,hani,range"
-"医師,イシ,ishi,doctor"
-"勉強,ベンキョウ,benkyou,study"
-"本人,ホンニン,honnin,the person themselves"
-"忘れる,ワスレル,wasureru,to forget (verb)"
-"いずれ,イズレ,izure,eventually"
-"対応する,タイオウスル,taiousuru,to respond (verb)"
-"図る,ハカル,hakaru,to plan (verb)"
-"授業,ジュギョウ,jugyou,lesson"
-"テレビ,テレビ,terebi,TV"
-"探す,サガス,sagasu,to search (verb)"
-"国家,コッカ,kokka,nation"
-"考え方,カンガエカタ,kangaekata,way of thinking"
-"通り,トオリ,toori,street"
-"特徴,トクチョウ,tokuchou,characteristic"
-"立つ,タツ,tatsu,to stand (verb)"
-"母,ハハ,haha,mother"
-"住む,スム,sumu,to live (verb)"
-"現れる,アラワレル,arawareru,to appear (verb)"
-"内,ナカ,naka,inside"
-"希望,キボウ,kibou,hope"
-"色,イロ,iro,color"
-"参考,サンコウ,sankou,reference"
-"戦争,センソウ,sensou,war"
-"産業,サンギョウ,sangyou,industry"
-"担当,タントウ,tantou,in charge"
-"銀行,ギンコウ,ginkou,bank"
-"今年,コトシ,kotoshi,this year"
-"光,ヒカリ,hikari,light"
-"介護,カイゴ,kaigo,nursing care"
-"会員,カイイン,kaiin,member"
-"大事な,ダイジナ,daijina,important (adj)"
-"大事,ダイジ,daiji,importance"
-"処理,ショリ,shori,processing"
-"判断,ハンダン,handan,judgment"
-"機会,キカイ,kikai,opportunity"
-"超える,コエル,koeru,to exceed (verb)"
-"グループ,グループ,gurupu,group"
-"役割,ヤクワリ,yakuwari,role"
-"常に,ツネニ,tsuneni,always"
-"予定,ヨテイ,yotei,schedule"
-"危険な,キケンナ,kikenna,dangerous (adj)"
-"危険,キケン,kiken,danger"
-"基礎,キソ,kiso,foundation"
-"市民,シミン,shimin,citizen"
-"海,カイ,kai,sea"
-"笑い,ワライ,warai,laughter"
-"右,ミギ,migi,right"
-"山,ヤマ,yama,mountain"
-"規模,キボ,kibo,scale"
-"法人,ホウジン,houjin,corporation"
-"有効な,ユウコウナ,yuukouna,valid (adj)"
-"有効,ユウコウ,yuukou,valid"
-"こうした,コウシタ,koushita,these"
-"方々,カタガタ,katagata,people"
-"以降,イコウ,ikou,from now on"
-"年,トシ,toshi,year"
-"イメージ,イメージ,imeji,image"
-"詳しい,クワシイ,kuwashii,detailed (adj)"
-"カード,カード,kado,card"
-"嬉しい,ウレシイ,ureshii,happy (adj)"
-"手術,シュジュツ,shujutsu,surgery"
-"営業,エイギョウ,eigyou,sales"
-"美味しい,オイシイ,oishii,delicious (adj)"
-"会議,カイギ,kaigi,meeting"
-"体験,タイケン,taiken,experience"
-"起きる,オキル,okiru,to wake up (verb)"
-"調べる,シラベル,shiraberu,to investigate (verb)"
-"成長,セイチョウ,seichou,growth"
-"食事,ショクジ,shokuji,meal"
-"税,ゼイ,zei,tax"
-"当該,トウガイ,tougai,the said"
-"外,ソト,soto,outside"
-"話す,ハナス,hanasu,to speak (verb)"
-"資格,シカク,shikaku,qualification"
-"確かに,タシカニ,tashikani,certainly"
-"現場,ゲンバ,genba,site"
-"職員,ショクイン,shokuin,staff"
-"立場,タチバ,tachiba,position"
-"残す,ノコス,nokosu,to leave (verb)"
-"業者,ギョウシャ,gyousha,contractor"
-"事務,ジム,jimu,office work"
-"物質,ブッシツ,busshitsu,substance"
-"別な,ベツナ,betsuna,another (adj)"
-"別,ベツ,betsu,another"
-"ケース,ケース,kesu,case"
-"文字,モジ,moji,character"
-"細胞,サイボウ,saibou,cell"
-"音楽,オンガク,ongaku,music"
-"提供,テイキョウ,teikyou,provision"
-"タイプ,タイプ,taipu,type"
-"値,アタイ,atai,value"
-"木,キ,ki,tree"
-"待つ,マツ,matsu,to wait (verb)"
-"料金,リョウキン,ryoukin,fee"
-"始め,ハジメ,hajime,beginning"
-"死ぬ,シヌ,shinu,to die (verb)"
-"ゲーム,ゲーム,gemu,game"
-"父,チチ,chichi,father"
-"口,クチ,kuchi,mouth"
-"不安な,フアンナ,fuanna,anxious (adj)"
-"不安,フアン,fuan,anxiety"
-"夜,ヨル,yoru,night"
-"辺り,ホトリ,hotori,vicinity"
-"生徒,セイト,seito,student"
-"きれいな,キレイナ,kireina,beautiful (adj)"
-"きれい,キレイ,kirei,beautiful"
-"研修,ケンシュウ,kenshuu,training"
-"皆様,ミナサマ,minasama,everyone"
-"表現,ヒョウゲン,hyougen,expression"
-"事項,ジコウ,jikou,matter"
-"申請,シンセイ,shinsei,application"
-"金額,キンガク,kingaku,amount"
-"記事,キジ,kiji,article"
-"指定,シテイ,shitei,designation"
-"語る,カタル,kataru,to talk (verb)"
-"お願い,オネガイ,onegai,request"
-"建物,タテモノ,tatemono,building"
-"申し上げる,モウシアゲル,moushiageru,to say (humble verb)"
-"道路,ドウロ,douro,road"
-"ずっと,ズット,zutto,continuously"
-"まあ,マア,maa,well"
-"打つ,ウツ,utsu,to hit (verb)"
-"若い,ワカイ,wakai,young (adj)"
-"上記,ジョウキ,jouki,above mentioned"
-"社員,シャイン,shain,employee"
-"地球,チキュウ,chikyuu,Earth"
-"議論,ギロン,giron,discussion"
-"自体,ジタイ,jitai,itself"
-"積極,セッキョク,sekkyoku,positive"
-"日本語,ニホンゴ,nihongo,Japanese"
-"色々な,イロイロナ,iroirona,various (adj)"
-"色々,イロイロ,iroiro,various"
-"向かう,ムカウ,mukau,to head (verb)"
-"スタッフ,スタッフ,sutaffu,staff"
-"小さな,チイサナ,chiisana,small (adj)"
-"資金,シキン,shikin,funds"
-"厳しい,キビシイ,kibishii,strict (adj)"
-"最終,サイシュウ,saishuu,final"
-"娘,ムスメ,musume,daughter"
-"請求,セイキュウ,seikyuu,claim"
-"インターネット,インターネット,intanetto,internet"
-"妻,ツマ,tsuma,wife"
-"数,カズ,kazu,number"
-"権利,ケンリ,kenri,right"
-"支払い,シハライ,shiharai,payment"
-"見せる,ミセル,miseru,to show (verb)"
-"朝,アサ,asa,morning"
-"作成する,サクセイスル,sakuseisuru,to create (verb)"
-"上がる,アガル,agaru,to rise (verb)"
-"繰り返す,クリカエス,kurikaesu,to repeat (verb)"
-"信じる,シンジル,shinjiru,to believe (verb)"
-"周り,マワリ,mawari,surroundings"
-"薬,クスリ,kusuri,medicine"
-"動き,ウゴキ,ugoki,movement"
-"検討する,ケントウスル,kentousuru,to consider (verb)"
-"最大,サイダイ,saidai,maximum"
-"安い,ヤスイ,yasui,cheap (adj)"
-"脳,ノウ,nou,brain"
-"利益,リエキ,rieki,profit"
-"画像,ガゾウ,gazou,image"
-"携帯,ケイタイ,keitai,mobile phone"
-"近く,チカク,chikaku,nearby"
-"代表,ダイヒョウ,daihyou,representative"
-"程度,テイド,teido,degree"
-"旅行,リョコウ,ryokou,trip"
-"ぜひ,ゼヒ,zehi,by all means"
-"当たる,アタル,ataru,to hit (verb)"
-"動物,ドウブツ,doubutsu,animal"
-"なくなる,ナクナル,nakunaru,to disappear (verb)"
-"住民,ジュウミン,juumin,resident"
-"動く,ウゴク,ugoku,to move (verb)"
-"興味,キョウミ,kyoumi,interest"
-"福祉,フクシ,fukushi,welfare"
-"特定,トクテイ,tokutei,specific"
-"年齢,ネンレイ,nenrei,age"
-"リスク,リスク,risuku,risk"
-"会う,アウ,au,to meet (verb)"
-"位置,イチ,ichi,location"
-"女,オンナ,onna,female"
-"質,シツ,shitsu,quality"
-"テーマ,テーマ,tema,theme"
-"素晴らしい,スバラシイ,subarashii,wonderful (adj)"
-"ホームページ,ホームページ,homupeji,homepage"
-"決まる,キマル,kimaru,to be decided (verb)"
-"ネット,ネット,netto,net"
-"地震,ジシン,jishin,earthquake"
-"適切な,テキセツナ,tekisetsuna,appropriate (adj)"
-"適切,テキセツ,tekisetsu,appropriate"
-"夫,オット,otto,husband"
-"料理,リョウリ,ryouri,cooking"
-"高齢,コウレイ,kourei,old age"
-"付ける,ツケル,tsukeru,to attach (verb)"
-"国内,コクナイ,kokunai,domestic"
-"総合,ソウゴウ,sougou,comprehensive"
-"購入,コウニュウ,kounyuu,purchase"
-"体制,タイセイ,taisei,system"
-"改善,カイゼン,kaizen,improvement"
-"結構,ケッコウ,kekkou,fairly"
-"実施,ジッシ,jisshi,implementation"
-"金,テツ,tetsu,gold"
-"駄目な,ダメナ,damena,no good (adj)"
-"駄目,ダメ,dame,no good"
-"友達,トモダチ,tomodachi,friend"
-"コース,コース,kosu,course"
-"くださる,クダサル,kudasaru,to give (honorific verb)"
-"本当,ホントウ,hontou,truth"
-"ファイル,ファイル,fairu,file"
-"まとめる,マトメル,matomeru,to summarize (verb)"
-"様子,ヨウス,yousu,state"
-"組合,クミアイ,kumiai,union"
-"判断する,ハンダンスル,handansuru,to judge (verb)"
-"工事,コウジ,kouji,construction"
-"美しい,ウツクシイ,utsukushii,beautiful (adj)"
-"日常,ニチジョウ,nichijou,daily life"
-"効率,コウリツ,kouritsu,efficiency"
-"思える,オモエル,omoeru,to seem (verb)"
-"起こす,オコス,okosu,to cause (verb)"
-"流れ,ナガレ,nagare,flow"
-"使える,ツカエル,tsukaeru,to be usable (verb)"
-"関連,カンレン,kanren,relation"
-"左,ヒダリ,hidari,left"
-"原則,ゲンソク,gensoku,principle"
-"決定,ケッテイ,kettei,decision"
-"画面,ガメン,gamen,screen"
-"上げる,アゲル,ageru,to raise (verb)"
-"印象,インショウ,inshou,impression"
-"あげる,アゲル,ageru,to give (verb)"
-"無料,ムリョウ,muryou,free"
-"プログラム,プログラム,puroguramu,program"
-"整備,セイビ,seibi,maintenance"
-"申し込み,モウシコミ,moushikomi,application"
-"傾向,ケイコウ,keikou,tendency"
-"ビジネス,ビジネス,bijinesu,business"
-"とおり,トオリ,toori,as expected"
-"紹介,ショウカイ,shoukai,introduction"
-"困難な,コンナンナ,konnanna,difficult (adj)"
-"困難,コンナン,konnan,difficulty"
-"現状,ゲンジョウ,genjou,current situation"
-"感覚,カンカク,kankaku,sensation"
-"おる,オル,oru,to be (humble verb)"
-"ほぼ,ホボ,hobo,almost"
-"取り組み,トリクミ,torikumi,effort"
-"解決,カイケツ,kaiketsu,solution"
-"長,チョウ,chou,length"
-"見つける,ミツケル,mitsukeru,to find (verb)"
-"選択,センタク,sentaku,choice"
-"結局,ケッキョク,kekkyoku,after all"
-"準備,ジュンビ,junbi,preparation"
-"ゼロ,ゼロ,zero,zero"
-"検討,ケントウ,kentou,consideration"
-"項目,コウモク,koumoku,item"
-"新聞,シンブン,shinbun,newspaper"
-"図,ズ,zu,diagram"
-"購入する,コウニュウスル,kounyuusuru,to purchase (verb)"
-"酒,サケ,sake,alcohol"
-"どういう,ドウイウ,douiu,what kind"
-"問い合わせ,トイアワセ,toiawase,inquiry"
-"自動車,ジドウシャ,jidousha,automobile"
-"高校,コウコウ,koukou,high school"
-"交通,コウツウ,koutsuu,transportation"
-"設定する,セッテイスル,setteisuru,to set (verb)"
-"大臣,ダイジン,daijin,minister"
-"実現する,ジツゲンスル,jitsugensuru,to realize (verb)"
-"電子,デンシ,denshi,electronic"
-"途中,トチュウ,tochuu,on the way"
-"優しい,ヤサシイ,yasashii,kind (adj)"
-"運営,ウンエイ,unei,operation"
-"白,シロ,shiro,white"
-"現代,ゲンダイ,gendai,modern times"
-"建築,ケンチク,kenchiku,architecture"
-"合う,アウ,au,to fit (verb)"
-"そのもの,ソノモノ,sonomono,the thing itself"
-"失う,ウシナウ,ushinau,to lose (verb)"
-"表示,ヒョウジ,hyouji,display"
-"努力,ドリョク,doryoku,effort"
-"雇用,コヨウ,koyou,employment"
-"パソコン,パソコン,pasokon,personal computer"
-"一定な,イッテイナ,itteina,fixed (adj)"
-"一定,イッテイ,ittei,certain"
-"答える,コタエル,kotaeru,to answer (verb)"
-"選択する,センタクスル,sentakusuru,to select (verb)"
-"無理な,ムリナ,murina,impossible (adj)"
-"無理,ムリ,muri,impossible"
-"える,エル,eru,to obtain (verb)"
-"多く,オオク,ooku,many"
-"バス,バス,basu,bus"
-"結婚,ケッコン,kekkon,marriage"
-"決して,ケッシテ,kesshite,never"
-"要素,ヨウソ,youso,element"
-"魅力,ミリョク,miryoku,charm"
-"付く,ツク,tsuku,to attach (verb)"
-"設計,セッケイ,sekkei,design"
-"複数,フクスウ,fukusuu,multiple"
-"電気,デンキ,denki,electricity"
-"明確な,メイカクナ,meikakuna,clear (adj)"
-"明確,メイカク,meikaku,clarity"
-"共同,キョウドウ,kyoudou,joint"
-"友人,ユウジン,yuujin,friend"
-"きちんと,キチント,kichinto,properly"
-"ちゃう,チャウ,chau,(casual negative)"
-"設置する,セッチスル,secchisuru,to install (verb)"
-"長期,チョウキ,chouki,long term"
-"向上,コウジョウ,koujou,improvement"
-"しかた,シカタ,shikata,method"
-"まさに,マサニ,masani,exactly"
-"回答,カイトウ,kaitou,response"
-"離れる,ハナレル,hanareru,to separate (verb)"
-"日々,ヒビ,hibi,daily"
-"世紀,セイキ,seiki,century"
-"葉,ハ,ha,leaf"
-"幸せな,シアワセナ,shiawasena,happy (adj)"
-"幸せ,シアワセ,shiawase,happiness"
-"活かす,イカス,ikasu,to utilize (verb)"
-"歯,ハ,ha,tooth"
-"大人,オトナ,otona,adult"
-"用意する,ヨウイスル,youisuru,to prepare (verb)"
-"豊かな,ユタカナ,yutakana,abundant (adj)"
-"豊か,ユタカ,yutaka,abundance"
-"止まる,トマル,tomaru,to stop (verb)"
-"分ける,ワケル,wakeru,to divide (verb)"
-"痛み,イタミ,itami,pain"
-"期待,キタイ,kitai,expectation"
-"広がる,ヒロガル,hirogaru,to spread (verb)"
-"困る,コマル,komaru,to be troubled (verb)"
-"自動,ジドウ,jidou,automatic"
-"バランス,バランス,baransu,balance"
-"全部,ゼンブ,zenbu,all"
-"面,メン,men,face"
-"なす,ナス,nasu,eggplant"
-"止める,トメル,tomeru,to stop (verb)"
-"量,リョウ,ryou,quantity"
-"事務所,ジムショ,jimusho,office"
-"神経,シンケイ,shinkei,nerve"
-"分析,ブンセキ,bunseki,analysis"
-"成果,セイカ,seika,result"
-"開催する,カイサイスル,kaisaisuru,to hold (verb)"
-"番号,バンゴウ,bangou,number"
-"人気,ニンキ,ninki,popularity"
-"比べる,クラベル,kuraberu,to compare (verb)"
-"安定な,アンテイナ,anteina,stable (adj)"
-"安定,アンテイ,antei,stability"
-"メーカー,メーカー,meka,manufacturer"
-"イベント,イベント,ibento,event"
-"分,ブン,bun,minute"
-"信頼,シンライ,shinrai,trust"
-"計算,ケイサン,keisan,calculation"
-"詳細な,ショウサイナ,shousaina,detailed (adj)"
-"詳細,ショウサイ,shousai,detail"
-"モデル,モデル,moderu,model"
-"活用する,カツヨウスル,katsuyousuru,to utilize (verb)"
-"県,ケン,ken,prefecture"
-"ユーザー,ユーザー,yuza,user"
-"デザイン,デザイン,dezain,design"
-"感情,カンジョウ,kanjou,emotion"
-"癌,ガン,gan,cancer"
-"掲載する,ケイサイスル,keisaisuru,to publish (verb)"
-"間違い,マチガイ,machigai,mistake"
-"裁判,サイバン,saiban,trial"
-"審査,シンサ,shinsa,examination"
-"元気な,ゲンキナ,genkina,energetic (adj)"
-"元気,ゲンキ,genki,energy"
-"勧める,ススメル,susumeru,to recommend (verb)"
-"チーム,チーム,chimu,team"
-"看護,カンゴ,kango,nursing"
-"切る,キル,kiru,to cut (verb)"
-"期待する,キタイスル,kitaisuru,to expect (verb)"
-"予約,ヨヤク,yoyaku,reservation"
-"仲間,ナカマ,nakama,companion"
-"中央,チュウオウ,chuuou,center"
-"加える,クワエル,kuwaeru,to add (verb)"
-"事前,ジゼン,jizen,in advance"
-"仕組み,シクミ,shikumi,mechanism"
-"向ける,ムケル,mukeru,to direct (verb)"
-"至る,イタル,itaru,to reach (verb)"
-"文,カキ,kaki,sentence"
-"重い,オモイ,omoi,heavy (adj)"
-"通信,ツウシン,tsuushin,communication"
-"ござる,ゴザル,gozaru,(honorific ""to be"")"
-"いろんな,イロンナ,ironna,various (adj)"
-"もらえる,モラエル,moraeru,can receive (verb)"
-"実験,ジッケン,jikken,experiment"
-"攻撃,コウゲキ,kougeki,attack"
-"風な,フウナ,fuuna,wind-like (adj)"
-"風,フウ,fuu,wind"
-"コミュニケーション,コミュニケーション, コミニュケーション,komyunikeshon, kominyukeshon,communication"
-"基づく,モトヅク,motozuku,to be based on (verb)"
-"避ける,ヨケル,yokeru,to avoid (verb)"
-"診断,シンダン,shindan,diagnosis"
-"犬,イヌ,inu,dog"
-"支払う,シハラウ,shiharau,to pay (verb)"
-"売る,ウル,uru,to sell (verb)"
-"過ごす,スゴス,sugosu,to spend time (verb)"
-"いわゆる,イワユル,iwayuru,so-called"
-"空,ソラ, クウ,sora, kuu,sky"
-"除く,ノゾク,nozoku,to exclude (verb)"
-"改革,カイカク,kaikaku,reform"
-"短い,ミジカイ,mijikai,short (adj)"
-"平均,ヘイキン,heikin,average"
-"年度,ネンド,nendo,fiscal year"
-"迎える,ムカエル,mukaeru,to welcome (verb)"
-"財産,ザイサン,zaisan,property"
-"育てる,ソダテル,sodateru,to raise (verb)"
-"資産,シサン,shisan,asset"
-"お話,オハナシ,ohanashi,talk"
-"雰囲気,フンイキ,funiki,atmosphere"
-"ブログ,ブログ,burogu,blog"
-"戦略,センリャク,senryaku,strategy"
-"変更する,ヘンコウスル,henkousuru,to change (verb)"
-"距離,キョリ,kyori,distance"
-"交流,コウリュウ,kouryuu,exchange"
-"挙げる,アゲル,ageru,to raise (verb)"
-"業界,ギョウカイ,gyoukai,industry"
-"姿勢,シセイ,shisei,posture"
-"夏,ナツ,natsu,summer"
-"最高な,サイコウナ,saikouna,best (adj)"
-"最高,サイコウ,saikou,highest"
-"周辺,シュウヘン,shuuhen,surroundings"
-"視点,シテン,shiten,viewpoint"
-"原発,ゲンパツ,genpatsu,nuclear power plant"
-"作成,サクセイ,sakusei,creation"
-"高める,タカメル,takameru,to enhance (verb)"
-"文章,ブンショウ,bunshou,writing"
-"知れる,シレル,shireru,to become known (verb)"
-"記載する,キサイスル,kisaisuru,to describe (verb)"
-"落ちる,オチル,ochiru,to fall (verb)"
-"押す,オス,osu,to push (verb)"
-"とにかく,トニカク,tonikaku,anyhow"
-"調整,チョウセイ,chousei,adjustment"
-"予算,ヨサン,yosan,budget"
-"なれる,ナレル,nareru,to become (verb)"
-"プロジェクト,プロジェクト,purojekuto,project"
-"限る,カギル,kagiru,to limit (verb)"
-"公共,コウキョウ,koukyou,public"
-"発生,ハッセイ,hassei,occurrence"
-"単位,タンイ,tani,unit"
-"軽い,カルイ,karui,light (adj)"
-"額,ガク, ヒタイ,gaku, hitai,amount"
-"お客,オキャク,okyaku,customer"
-"変化する,ヘンカスル,henkasuru,to change (verb)"
-"答え,コタエ,kotae,answer"
-"似る,ニル,niru,to resemble (verb)"
-"立てる,タテル,tateru,to stand up (verb)"
-"時点,ジテン,jiten,point in time"
-"設備,セツビ,setsubi,equipment"
-"集まる,アツマル,atsumaru,to gather (verb)"
-"措置,ソチ,sochi,measure"
-"災害,サイガイ,saigai,disaster"
-"魂,タマシイ,tamashii,soul"
-"もともと,モトモト,motomoto,originally"
-"発展,ハッテン,hatten,development"
-"大丈夫な,ダイジョウブナ,daijoubuna,okay (adj)"
-"大丈夫,ダイジョウブ,daijoubu,okay"
-"有名な,ユウメイナ,yuumeina,famous (adj)"
-"有名,ユウメイ,yuumei,fame"
-"義務,ギム,gimu,duty"
-"移動,イドウ,idou,movement"
-"観光,カンコウ,kankou,sightseeing"
-"療法,リョウホウ,ryouhou,therapy"
-"宇宙,ウチュウ,uchuu,space"
-"定期,テイキ,teiki,regular"
-"多様な,タヨウナ,tayouna,diverse (adj)"
-"多様,タヨウ,tayou,diversity"
-"ふう,フウ,fuu,style"
-"驚く,オドロク,odoroku,to be surprised (verb)"
-"伴う,トモナウ,tomonau,to accompany (verb)"
-"提出する,テイシュツスル,teishutsusuru,to submit (verb)"
-"収入,シュウニュウ,shuunyuu,income"
-"手段,シュダン,shudan,means"
-"疑問,ギモン,gimon,doubt"
-"交換,コウカン,koukan,exchange"
-"方針,ホウシン,houshin,policy"
-"注意する,チュウイスル,chuuisuru,to be careful (verb)"
-"多数,タスウ,tasuu,majority"
-"壁,カベ,kabe,wall"
-"引く,ヒク,hiku,to pull (verb)"
-"書類,ショルイ,shorui,document"
-"指定する,シテイスル,shiteisuru,to specify (verb)"
-"人材,ジンザイ,jinzai,human resources"
-"他人,タニン,tanin,others"
-"絶対,ゼッタイ,zettai,absolute"
-"農業,ノウギョウ,nougyou,agriculture"
-"昨年,サクネン,sakunen,last year"
-"不動産,フドウサン,fudousan,real estate"
-"練習,レンシュウ,renshuu,practice"
-"割合,ワリアイ,wariai,ratio"
-"集める,アツメル,atsumeru,to collect (verb)"
-"敵,テキ,teki,enemy"
-"全員,ゼンイン,zenin,all members"
-"よろしく,ヨロシク,yoroshiku,regards"
-"コスト,コスト,kosuto,cost"
-"児童,ジドウ,jidou,children"
-"ストレス,ストレス,sutoresu,stress"
-"法,ホウ,hou,law"
-"プロ,プロ,puro,professional"
-"理論,リロン,riron,theory"
-"運転,ウンテン,unten,driving"
-"評価する,ヒョウカスル,hyoukasuru,to evaluate (verb)"
-"勉強する,ベンキョウスル,benkyousuru,to study (verb)"
-"町,マチ,machi,town"
-"確実な,カクジツナ,kakujitsuna,certain (adj)"
-"確実,カクジツ,kakujitsu,certainty"
-"地区,チク,chiku,district"
-"触れる,フレル,fureru,to touch (verb)"
-"工場,コウバ,kouba,factory"
-"有する,ユウスル,yuusuru,to have (verb)"
-"地元,ジモト,jimoto,hometown"
-"今度,コンド,kondo,next time"
-"一切,イッサイ,issai,all"
-"選手,センシュ,senshu,player"
-"所得,ショトク,shotoku,income"
-"従来,ジュウライ,juurai,conventional"
-"届く,トドク,todoku,to arrive (verb)"
-"なんとか,ナントカ,nantoka,somehow"
-"減る,ヘル,heru,to decrease (verb)"
-"安心,アンシン,anshin,relief"
-"証明,ショウメイ,shoumei,proof"
-"注文,チュウモン,chuumon,order"
-"現象,ゲンショウ,genshou,phenomenon"
-"どんどん,ドンドン,dondon,steadily"
-"心理,シンリ,shinri,psychology"
-"良い,ヨイ,yoi,good (adj)"
-"空間,クウカン,kuukan,space"
-"耳,ミミ,mimi,ear"
-"異常な,イジョウナ,ijouna,abnormal (adj)"
-"異常,イジョウ,ijou,abnormality"
-"働き,ハタラキ,hataraki,work"
-"メンバー,メンバー,menba,member"
-"正確な,セイカクナ,seikakuna,accurate (adj)"
-"正確,セイカク,seikaku,accuracy"
-"以内,イナイ,inai,within"
-"診療,シンリョウ,shinryou,medical treatment"
-"残念な,ザンネンナ,zannenna,unfortunate (adj)"
-"残念,ザンネン,zannen,unfortunately"
-"流れる,ナガレル,nagareru,to flow (verb)"
-"本来,ホンライ,honrai,originally"
-"つもり,ツモリ,tsumori,intention"
-"食品,ショクヒン,shokuhin,food"
-"予防,ヨボウ,yobou,prevention"
-"認識,ニンシキ,ninshiki,recognition"
-"小学校,ショウガッコウ,shougakkou,elementary school"
-"生物,セイブツ, ナマモノ,seibutsu, namamono,organism"
-"監督,カントク,kantoku,director"
-"支える,ツカエル,tsukaeru,to support (verb)"
-"建設,ケンセツ,kensetsu,construction"
-"明るい,アカルイ,akarui,bright (adj)"
-"むしろ,ムシロ,mushiro,rather"
-"横,ヨコ,yoko,side"
-"記録,キロク,kiroku,record"
-"事情,ジジョウ,jijou,circumstances"
-"番組,バングミ,bangumi,program"
-"側,ガワ,gawa,side"
-"努める,ツトメル,tsutomeru,to endeavor (verb)"
-"記憶,キオク,kioku,memory"
-"しばらく,シバラク,shibaraku,for a while"
-"ふだん,フダン,fudan,usually"
-"言語,ゴンゴ,gongo,language"
-"名,ナ,na,name"
-"ネットワーク,ネットワーク,nettowaku,network"
-"職場,ショクバ,shokuba,workplace"
-"実現,ジツゲン,jitsugen,realization"
-"わが国,ワガクニ,wagakuni,our country"
-"元,ガン,gan,yuan (currency)"
-"絵,エ,e,picture"
-"製造,セイゾウ,seizou,manufacturing"
-"寝る,ネル,neru,to sleep (verb)"
-"未来,ミライ,mirai,future"
-"現地,ゲンチ,genchi,actual place"
-"安心する,アンシンスル,anshinsuru,to feel relieved (verb)"
-"資本,シホン,shihon,capital"
-"嫌な,イヤナ,iyana,disliked (adj)"
-"嫌,イヤ,iya,dislike"
-"味,アジ,aji,taste"
-"設ける,モウケル,moukeru,to establish (verb)"
-"受験,ジュケン,juken,exam"
-"資源,シゲン,shigen,resource"
-"関心,カンシン,kanshin,interest"
-"なんと,ナント,nanto,what"
-"古い,フルイ,furui,old (adj)"
-"構成,コウセイ,kousei,composition"
-"反応,ハンノウ,hannou,reaction"
-"ある程度,アルテイド,aruteido,to some extent"
-"反対,ハンタイ,hantai,opposition"
-"制限,セイゲン,seigen,restriction"
-"差,サ,sa,difference"
-"人物,ジンブツ,jinbutsu,personality"
-"悩む,ナヤム,nayamu,to worry (verb)"
-"相談する,ソウダンスル,soudansuru,to consult (verb)"
-"好きな,スキナ,sukina,favorite (adj)"
-"好き,スキ,suki,like"
-"植物,ショクブツ,shokubutsu,plant"
-"便利な,ベンリナ,benrina,convenient (adj)"
-"便利,ベンリ,benri,convenience"
-"スポーツ,スポーツ,supotsu,sports"
-"地,チ,chi,ground"
-"選挙,センキョ,senkyo,election"
-"推進,スイシン,suishin,promotion"
-"ころ,コロ,koro,about"
-"払う,ハラウ,harau,to pay (verb)"
-"ちゃんと,チャント,chanto,properly"
-"種,シュ,shu,kind"
-"決定する,ケッテイスル,ketteisuru,to decide (verb)"
-"ホテル,ホテル,hoteru,hotel"
-"連携,レンケイ,renkei,cooperation"
-"一度,イチド,ichido,once"
-"おそらく,オソラク,osoraku,probably"
-"扱う,アツカウ,atsukau,to handle (verb)"
-"主に,オモニ,omoni,mainly"
-"胸,ムネ,mune,chest"
-"運用,ウンヨウ,unyou,operation"
-"自信,ジシン,jishin,self-confidence"
-"企画,キカク,kikaku,plan"
-"発電,ハツデン,hatsuden,power generation"
-"内部,ナイブ,naibu,inside"
-"著作,チョサク,chosaku,writing"
-"弱い,ヨワイ,yowai,weak (adj)"
-"広告,コウコク,koukoku,advertisement"
-"きわめて,キワメテ,kiwamete,extremely"
-"規制,キセイ,kisei,regulation"
-"一人,ヒトリ,hitori,one person"
-"周囲,シュウイ,shuui,surroundings"
-"自宅,ジタク,jitaku,one's home"
-"はっきり,ハッキリ,hakkiri,clearly"
-"開始,カイシ,kaishi,start"
-"ボタン,ボタン,botan,button"
-"過程,カテイ,katei,process"
-"楽しみ,タノシミ,tanoshimi,enjoyment"
-"どうしても,ドウシテモ,doushitemo,by all means"
-"母親,ハハオヤ,hahaoya,mother"
-"夫婦,フウフ,fuufu,married couple"
-"コメント,コメント,komento,comment"
-"あらかじめ,アラカジメ,arakajime,in advance"
-"優れる,スグレル,sugureru,to excel (verb)"
-"損害,ソンガイ,songai,damage"
-"やめる,ヤメル,yameru,to quit (verb)"
-"辛い,ツライ,tsurai,painful (adj)"
-"空気,クウキ,kuuki,air"
-"果たす,ハタス,hatasu,to fulfill (verb)"
-"機器,キキ,kiki,device"
-"出会う,デアウ,deau,to meet (verb)"
-"痛い,イタイ,itai,painful (adj)"
-"再び,フタタビ,futatabi,again"
-"お互い,オタガイ,otagai,each other"
-"人口,ジンコウ,jinkou,population"
-"装置,ソウチ,souchi,equipment"
-"たび,タビ,tabi,time"
-"民間,ミンカン,minkan,private"
-"各種,カクシュ,kakushu,various"
-"かって,カツテ,katsute,once"
-"まいる,マイル,mairu,to come/go (humble verb)"
-"きっと,キット,kitto,surely"
-"そういった,ソウイッタ,souitta,such"
-"渡る,ワタル,wataru,to cross (verb)"
-"撮影,サツエイ,satsuei,photography"
-"映像,エイゾウ,eizou,video"
-"公園,コウエン,kouen,park"
-"毎年,マイトシ,maitoshi,every year"
-"背景,ハイケイ,haikei,background"
-"クラス,クラス,kurasu,class"
-"改めて,アラタメテ,aratamete,anew"
-"集団,シュウダン,shuudan,group"
-"保証,ホショウ,hoshou,guarantee"
-"検索,ケンサク,kensaku,search"
-"認識する,ニンシキスル,ninshikisuru,to recognize (verb)"
-"就職,シュウショク,shuushoku,employment"
-"受け入れる,ウケイレル,ukeireru,to accept (verb)"
-"補助,ホジョ,hojo,assistance"
-"取得,シュトク,shutoku,acquisition"
-"世代,セダイ,sedai,generation"
-"性格,セイカク,seikaku,personality"
-"標準,ヒョウジュン,hyoujun,standard"
-"訪れる,オトズレル,otozureru,to visit (verb)"
-"心配,シンパイ,shinpai,worry"
-"ガス,ガス,gasu,gas"
-"街,マチ,machi,town"
-"保障,ホショウ,hoshou,security"
-"訓練,クンレン,kunren,training"
-"会,カイ,kai,meeting"
-"船,フネ,fune,ship"
-"不思議な,フシギナ,fushigina,mysterious (adj)"
-"不思議,フシギ,fushigi,mystery"
-"領域,リョウイキ,ryouiki,domain"
-"競争,キョウソウ,kyousou,competition"
-"サイズ,サイズ,saizu,size"
-"魚,サカナ,sakana,fish"
-"あくまで,アクマデ,akumade,to the end"
-"死,シ,shi,death"
-"遅い,オソイ,osoi,slow (adj)"
-"掲げる,カカゲル,kakageru,to raise (verb)"
-"そうした,ソウシタ,soushita,such"
-"喜ぶ,ヨロコブ,yorokobu,to be glad (verb)"
-"ゆっくり,ユックリ,yukkuri,slowly"
-"認定,ニンテイ,nintei,certification"
-"終了,シュウリョウ,shuuryou,completion"
-"許可,キョカ,kyoka,permission"
-"客,キャク,kyaku,guest"
-"１つ,ヒトツ,hitotsu,one"
-"ルール,ルール,ruru,rule"
-"社長,シャチョウ,shachou,company president"
-"議員,ギイン,giin,assembly member"
-"教室,キョウシツ,kyoushitsu,classroom"
-"機械,キカイ,kikai,machine"
-"派遣,ハケン,haken,dispatch"
-"方式,ホウシキ,houshiki,method"
-"願う,ネガウ,negau,to wish (verb)"
-"血,チ,chi,blood"
-"大会,タイカイ,taikai,tournament"
-"クリックする,クリックスル,kurikkusuru,to click (verb)"
-"宗教,シュウキョウ,shuukyou,religion"
-"実践,ジッセン,jissen,practice"
-"猫,ネコ,neko,cat"
-"居る,イル,iru,to be (verb - animate)"
-"発表する,ハッピョウスル,happyousuru,to announce (verb)"
-"当たり前な,アタリマエナ,atarimaena,natural (adj)"
-"当たり前,アタリマエ,atarimae,naturally"
-"首,クビ,kubi,neck"
-"取れる,トレル,toreru,to be able to take (verb)"
-"一生,イッショウ,isshou,whole life"
-"野菜,ヤサイ,yasai,vegetable"
-"息子,ムスコ,musuko,son"
-"相続,ソウゾク,souzoku,inheritance"
-"ソフトな,ソフトナ,sofutona,soft (adj)"
-"ソフト,ソフト,sofuto,software"
-"部門,ブモン,bumon,division"
-"不足,フソク,fusoku,shortage"
-"濃い,コイ,koi,thick (adj)"
-"解決する,カイケツスル,kaiketsusuru,to solve (verb)"
-"疾患,シッカン,shikkan,disease"
-"数字,スウジ,suuji,numeral"
-"通う,カヨウ,kayou,to commute (verb)"
-"金利,キンリ,kinri,interest rate"
-"提案,テイアン,teian,proposal"
-"あらゆる,アラユル,arayuru,all"
-"貼る,ハル,haru,to paste (verb)"
-"筋肉,キンニク,kinniku,muscle"
-"許す,ユルス,yurusu,to forgive (verb)"
-"独自な,ドクジナ,dokujina,unique (adj)"
-"独自,ドクジ,dokuji,originality"
-"規則,キソク,kisoku,rule"
-"赤ちゃん,アカチャン,akachan,baby"
-"大量な,タイリョウナ,tairyouna,large (adj)"
-"大量,タイリョウ,tairyo,large quantity"
-"協会,キョウカイ,kyoukai,association"
-"経る,ヘル,heru,to pass through (verb)"
-"放送,ホウソウ,housou,broadcast"
-"弁護士,ベンゴシ,bengoshi,lawyer"
-"増やす,フヤス,fuyasu,to increase (verb)"
-"初期,ショキ,shoki,initial stage"
-"伝わる,ツタワル,tsutawaru,to be transmitted (verb)"
-"教師,キョウシ,kyoushi,teacher"
-"観点,カンテン,kanten,point of view"
-"確保,カクホ,kakuho,securement"
-"操作,ソウサ,sousa,operation"
-"肌,ハダ,hada,skin"
-"協議,キョウギ,kyougi,conference"
-"手法,シュホウ,shuhou,technique"
-"活用,カツヨウ,katsuyou,utilization"
-"たくさん,タクサン,takusan,many"
-"東,ヒガシ,higashi,east"
-"愛する,アイスル,aisuru,to love (verb)"
-"弊社,ヘイシャ,heisha,our company"
-"意識する,イシキスル,ishikisuru,to be aware (verb)"
-"取り扱い,トリアツカイ,toriatsukai,handling"
-"怖い,コワイ,kowai,scary (adj)"
-"登録する,トウロクスル,tourokusuru,to register (verb)"
-"導入,ドウニュウ,dounyuu,introduction"
-"習慣,シュウカン,shuukan,habit"
-"表現する,ヒョウゲンスル,hyougensuru,to express (verb)"
-"当初,トウショ,tousho,initially"
-"たぶん,タブン,tabun,perhaps"
-"防止,ボウシ,boushi,prevention"
-"通る,トオル,tooru,to pass (verb)"
-"いかに,イカニ,ikani,how"
-"材料,ザイリョウ,zairyou,material"
-"気分,キブン,kibun,mood"
-"伝統,デントウ,dentou,tradition"
-"形式,ケイシキ,keishiki,form"
-"聞こえる,キコエル,kikoeru,to be heard (verb)"
-"継続,ケイゾク,keizoku,continuation"
-"会話,カイワ,kaiwa,conversation"
-"要因,ヨウイン,youin,factor"
-"後ろ,ハイゴ,haigo,back"
-"メッセージ,メッセージ,messeji,message"
-"チェック,チェック,chekku,check"
-"前提,ゼンテイ,zentei,premise"
-"比較的,ヒカクテキ,hikakuteki,comparatively"
-"維持,イジ,iji,maintenance"
-"物語,モノガタリ,monogatari,tale"
-"抱える,カカエル,kakaeru,to hold (verb)"
-"事例,ジレイ,jirei,example"
-"借りる,カリル,kariru,to borrow (verb)"
-"採用する,サイヨウスル,saiyousuru,to adopt (verb)"
-"展開する,テンカイスル,tenkaisuru,to develop (verb)"
-"改善する,カイゼンスル,kaizensuru,to improve (verb)"
-"再生,サイセイ,saisei,reproduction"
-"危機,キキ,kiki,crisis"
-"意思,イシ,ishi,intention"
-"発表,ハッピョウ,happyou,announcement"
-"動かす,ウゴカス,ugokasu,to move (verb)"
-"理事,リジ,riji,director"
-"化学,カガク,kagaku,chemistry"
-"ごみ,ゴミ,gomi,trash"
-"神社,ジンジャ,jinja,shrine"
-"高度な,コウドナ,koudona,advanced (adj)"
-"高度,コウド,koudo,altitude"
-"わずか,ワズカ,wazuka,only"
-"活性,カッセイ,kassei,activity"
-"口座,コウザ,kouza,account"
-"専用,センヨウ,senyou,exclusive use"
-"成長する,セイチョウスル,seichousuru,to grow (verb)"
-"品質,ヒンシツ,hinshitsu,quality"
-"店舗,テンポ,tenpo,store"
-"比較する,ヒカクスル,hikakusuru,to compare (verb)"
-"職業,ショクギョウ,shokugyou,occupation"
-"可愛い,カワイイ,kawaii,cute (adj)"
-"指摘する,シテキスル,shitekisuru,to point out (verb)"
-"望む,ノゾム,nozomu,to hope (verb)"
-"該当する,ガイトウスル,gaitousuru,to apply (verb)"
-"おっしゃる,オッシャル,ossharu,to say (honorific verb)"
-"従業,ジュウギョウ,juugyou,employment"
-"きっかけ,キッカケ,kikkake,opportunity"
-"確保する,カクホスル,kakuhosuru,to secure (verb)"
-"取得する,シュトクスル,shutokusuru,to acquire (verb)"
-"展開,テンカイ,tenkai,development"
-"思い出す,オモイダス,omoidasu,to remember (verb)"
-"満足,マンゾク,manzoku,satisfaction"
-"もたらす,モタラス,motarasu,to bring (verb)"
-"気軽な,キガルナ,kigaruna,casual (adj)"
-"気軽,キガル,kigaru,lightheartedness"
-"財政,ザイセイ,zaisei,finance"
-"開発する,カイハツスル,kaihatsusuru,to develop (verb)"
-"アドバイス,アドバイス,adobaisu,advice"
-"案内,アンナイ,annai,guidance"
-"受け取る,ウケトル,uketoru,to receive (verb)"
-"導入する,ドウニュウスル,dounyuusuru,to introduce (verb)"
-"改正,カイセイ,kaisei,revision"
-"雨,アメ,ame,rain"
-"適用する,テキヨウスル,tekiyousuru,to apply (verb)"
-"感染,カンセン,kansen,infection"
-"顧客,コキャク,kokyaku,customer"
-"サポート,サポート,sapoto,support"
-"なさる,ナサル,nasaru,to do (honorific verb)"
-"遊ぶ,アソブ,asobu,to play (verb)"
-"表面,ヒョウメン,hyoumen,surface"
-"市,イチ, ショクモツ,ichi, shokumotsu,city"
-"ひどい,ヒドイ,hidoi,terrible (adj)"
-"まだまだ,マダマダ,madamada,still"
-"考慮する,コウリョスル,kouryosuru,to consider (verb)"
-"愛,アイ,ai,love"
-"川,カワ,kawa,river"
-"プラン,プラン,puran,plan"
-"下がる,サガル,sagaru,to lower (verb)"
-"開始する,カイシスル,kaishisuru,to start (verb)"
-"依頼,イライ,irai,request"
-"どうして,ドウシテ,doushite,why"
-"同士,ドウシ,doushi,fellow"
-"お母さん,オカアサン,okaasan,mother"
-"満たす,ミタス,mitasu,to satisfy (verb)"
-"メニュー,メニュー,menyu,menu"
-"温度,オンド,ondo,temperature"
-"被災,ヒサイ,hisai,disaster"
-"ローン,ローン,ron,loan"
-"開ける,アケル,akeru,to open (verb)"
-"自転車,ジテンシャ,jitensha,bicycle"
-"登場する,トウジョウスル,toujousuru,to appear (verb)"
-"係る,カカル,kakaru,to concern (verb)"
-"設置,セッチ,secchi,installation"
-"警察,ケイサツ,keisatsu,police"
-"いくつか,イクツカ,ikutsuka,several"
-"発見する,ハッケンスル,hakkensuru,to discover (verb)"
-"わが,ワガ,waga,our"
-"回る,マワル,mawaru,to turn (verb)"
-"移動する,イドウスル,idousuru,to move (verb)"
-"冬,フユ,fuyu,winter"
-"成功する,セイコウスル,seikousuru,to succeed (verb)"
-"撮る,トル,toru,to take (photo) (verb)"
-"教授,キョウジュ,kyouju,professor"
-"瞬間,シュンカン,shunkan,moment"
-"所有,ショユウ,shoyuu,ownership"
-"政権,セイケン,seiken,administration"
-"ボランティア,ボランティア,boranthia,volunteer"
-"駅,エキ,eki,station"
-"同じな,オナジナ,onajina,same (adj)"
-"並ぶ,ナラブ,narabu,to line up (verb)"
-"理想,リソウ,risou,ideal"
-"講座,コウザ,kouza,course"
-"細かい,コマカイ,komakai,detailed (adj)"
-"厚生,コウセイ,kousei,public welfare"
-"電力,デンリョク,denryoku,electric power"
-"捨てる,ステル,suteru,to throw away (verb)"
-"拡大,カクダイ,kakudai,expansion"
-"血液,ケツエキ,ketsueki,blood"
-"入院,ニュウイン,nyuuin,hospitalization"
-"笑う,ワラウ,warau,to laugh (verb)"
-"両親,リョウシン,ryoushin,parents"
-"カメラ,カメラ,kamera,camera"
-"一方,イッポウ,ippou,on the other hand"
-"丁寧な,テイネイナ,teineina,polite (adj)"
-"丁寧,テイネイ,teinei,politeness"
-"特殊な,トクシュナ,tokushuna,special (adj)"
-"特殊,トクシュ,tokushu,specialty"
-"笑顔,エガオ,egao,smile"
-"見つかる,ミツカル,mitsukaru,to be found (verb)"
-"丸,マル,maru,circle"
-"作用,サヨウ,sayou,effect"
-"慣れる,ナレル,nareru,to get used (verb)"
-"遠い,トオイ,tooi,far (adj)"
-"構成する,コウセイスル,kouseisuru,to constitute (verb)"
-"会場,カイジョウ,kaijou,venue"
-"あまりに,アマリニ,amarini,too much"
-"複雑な,フクザツナ,fukuzatsuna,complex (adj)"
-"複雑,フクザツ,fukuzatsu,complexity"
-"証拠,ショウコ,shouko,evidence"
-"メリット,メリット,meritto,merit"
-"共に,トモニ,tomoni,together"
-"昨日,キノウ,kinou,yesterday"
-"土,ツチ,tsuchi,soil"
-"単純な,タンジュンナ,tanjunna,simple (adj)"
-"単純,タンジュン,tanjun,simplicity"
-"幅,ハバ,haba,width"
-"駐車,チュウシャ,chuusha,parking"
-"概念,ガイネン,gainen,concept"
-"勝手な,カッテナ,kattena,selfish (adj)"
-"勝手,カッテ,katte,selfishness"
-"トラブル,トラブル,toraburu,trouble"
-"ケア,ケア,kea,care"
-"年間,ネンカン,nenkan,yearly"
-"素材,ソザイ,sozai,material"
-"裏,ウラ,ura,back"
-"とりあえず,トリアエズ,toriaezu,for now"
-"是非,ゼヒ,zehi,by all means"
-"主な,オモナ,omona,main (adj)"
-"主,オモ,omo,main"
-"発言,ハツゲン,hatsugen,statement"
-"話題,ワダイ,wadai,topic"
-"半分,ハンブン,hanbun,half"
-"遊び,アソビ,asobi,play"
-"ちょうど,チョウド,choudo,just"
-"春,ハル,haru,spring"
-"感謝,カンシャ,kansha,gratitude"
-"成功,セイコウ,seikou,success"
-"育成,イクセイ,ikusei,development"
-"ニーズ,ニーズ,nizu,need"
-"取り上げる,トリアゲル,toriageru,to pick up (verb)"
-"把握する,ハアクスル,haakusuru,to grasp (verb)"
-"医学,イガク,igaku,medical science"
-"場面,バメン,bamen,scene"
-"もう少し,モウスコシ,mousukoshi,a little more"
-"条例,ジョウレイ,jourei,ordinance"
-"犯罪,ハンザイ,hanzai,crime"
-"温泉,オンセン,onsen,hot spring"
-"真,シン,shin,truth"
-"表す,アラワス,arawasu,to express (verb)"
-"報告する,ホウコクスル,houkokusuru,to report (verb)"
-"黒,クロ,kuro,black"
-"科目,カモク,kamoku,subject"
-"激しい,ハゲシイ,hageshii,intense (adj)"
-"村,ムラ,mura,village"
-"形態,ケイタイ,keitai,form"
-"会計,カイケイ,kaikei,accounting"
-"前回,ゼンカイ,zenkai,previous time"
-"従う,シタガウ,shitagau,to obey (verb)"
-"採用,サイヨウ,saiyou,adoption"
-"流す,ナガス,nagasu,to flow (verb)"
-"成分,セイブン,seibun,ingredient"
-"クラブ,クラブ,kurabu,club"
-"問う,トウ,tou,to ask (verb)"
-"事態,ジタイ,jitai,situation"
-"態度,タイド,taido,attitude"
-"妊娠,ニンシン,ninshin,pregnancy"
-"更新,コウシン,koushin,renewal"
-"共通,キョウツウ,kyoutsuu,common"
-"物件,ブッケン,bukken,property"
-"突然,トツゼン,totsuzen,suddenly"
-"規定する,キテイスル,kiteisuru,to regulate (verb)"
-"マンション,マンション,manshon,condominium"
-"単に,タンニ,tanni,simply"
-"防ぐ,フセグ,fusegu,to prevent (verb)"
-"無駄な,ムダナ,mudana,wasteful (adj)"
-"無駄,ムダ,muda,waste"
-"負う,オウ,ou,to bear (verb)"
-"話する,ハナシスル,hanashisuru,to talk (verb)"
-"旨,ムネ,mune,purpose"
-"消える,キエル,kieru,to disappear (verb)"
-"保つ,タモツ,tamotsu,to maintain (verb)"
-"パターン,パターン,patan,pattern"
-"代わり,カワリ,kawari,substitute"
-"恐れ,オソレ,osore,fear"
-"奴,ヤツ,yatsu,guy"
-"思想,シソウ,shisou,thought"
-"明日,アス,asu,tomorrow"
-"勤務,キンム,kinmu,employment"
-"登る,ノボル,noboru,to climb (verb)"
-"交渉,コウショウ,koushou,negotiation"
-"抑える,オサエル,osaeru,to suppress (verb)"
-"論文,ロンブン,ronbun,thesis"
-"テスト,テスト,tesuto,test"
-"育つ,ソダツ,sodatsu,to grow up (verb)"
-"全然,ゼンゼン,zenzen,not at all"
-"占める,シメル,shimeru,to occupy (verb)"
-"暮らす,クラス,kurasu,to live (verb)"
-"歌,ウタ,uta,song"
-"狭い,セマイ,semai,narrow (adj)"
-"外部,ガイブ,gaibu,external"
-"地図,チズ,chizu,map"
-"増加する,ゾウカスル,zoukasuru,to increase (verb)"
-"赤,アカ,aka,red"
-"次に,ツギニ,tsugini,next"
-"結ぶ,ムスブ,musubu,to tie (verb)"
-"株式会社,カブシキガイシャ,kabushikigaisha,corporation"
-"先輩,センパイ,senpai,senior"
-"父親,チチオヤ,chichioya,father"
-"世の中,ヨノナカ,yononaka,world"
-"放射線,ホウシャセン,houshasen,radiation"
-"増加,ゾウカ,zouka,increase"
-"意味する,イミスル,imisuru,to mean (verb)"
-"やや,ヤヤ,yaya,somewhat"
-"入力する,ニュウリョクスル,nyuuryokusuru,to input (verb)"
-"アクセス,アクセス,akusesu,access"
-"栄養,エイヨウ,eiyou,nutrition"
-"別に,ベツニ,betsuni,separately"
-"コンピューター,コンピューター,konpyuta,computer"
-"戦う,タタカウ,tatakau,to fight (verb)"
-"北,キタ,kita,north"
-"重ねる,カサネル,kasaneru,to pile (verb)"
-"楽な,ラクナ,rakuna,easy (adj)"
-"楽,ラク,raku,ease"
-"食,ショク,shoku,food"
-"思考,シコウ,shikou,thinking"
-"中小,チュウショウ,chuushou,small and medium"
-"維持する,イジスル,ijisuru,to maintain (verb)"
-"穴,アナ,ana,hole"
-"実績,ジッセキ,jisseki,achievement"
-"あり方,アリカタ,arikata,way of being"
-"見なす,ミナス,minasu,to regard (verb)"
-"悩み,ナヤミ,nayami,worry"
-"ゆく,ユク,yuku,to go (verb)"
-"手数料,テスウリョウ,tesuuryou,fee"
-"窓口,マドグチ,madoguchi,counter"
-"役立つ,ヤクダツ,yakudatsu,to be useful (verb)"
-"販売する,ハンバイスル,hanbaisuru,to sell (verb)"
-"固定,コテイ,kotei,fixed"
-"メディア,メディア,medhia,media"
-"皮膚,ヒフ,hifu,skin"
-"処分,ショブン,shobun,disposal"
-"抱く,ダク,daku,to embrace (verb)"
-"回復,カイフク,kaifuku,recovery"
-"文書,モンショ,monsho,document"
-"最新,サイシン,saishin,latest"
-"スタイル,スタイル,sutairu,style"
-"それほど,ソレホド,sorehodo,that much"
-"南,ミナミ,minami,south"
-"会長,カイチョウ,kaichou,chairman"
-"主人,シュジン,shujin,master"
-"運ぶ,ハコブ,hakobu,to carry (verb)"
-"呼吸,コキュウ,kokyuu,breathing"
-"充実する,ジュウジツスル,juujitsusuru,to enrich (verb)"
-"シーン,シーン,shin,scene"
-"数値,スウチ,suuchi,numerical value"
-"緊急な,キンキュウナ,kinkyuuna,urgent (adj)"
-"緊急,キンキュウ,kinkyuu,emergency"
-"不明な,フメイナ,fumeina,unknown (adj)"
-"不明,フメイ,fumei,unknown"
-"サーバー,サーバー,saba,server"
-"核,カク,kaku,nucleus"
-"旅,タビ,tabi,travel"
-"小説,ショウセツ,shousetsu,novel"
-"少なくとも,スクナクトモ,sukunakutomo,at least"
-"公開,コウカイ,koukai,publication"
-"秋,アキ,aki,autumn"
-"雪,ユキ,yuki,snow"
-"第三者,ダイサンシャ,daisansha,third party"
-"新規な,シンキナ,shinkina,new (adj)"
-"新規,シンキ,shinki,new"
-"熱,ネツ,netsu,heat"
-"着る,キル,kiru,to wear (verb)"
-"ファン,ファン,fan,fan"
-"前後,ゼンゴ,zengo,before and after"
-"市町村,シチョウソン,shichouson,municipality"
-"いくつ,イクツ,ikutsu,how many"
-"いらっしゃる,イラッシャル,irassharu,to come/go (honorific verb)"
-"近年,キンネン,kinnen,recent years"
-"結婚する,ケッコンスル,kekkonsuru,to marry (verb)"
-"推進する,スイシンスル,suishinsuru,to promote (verb)"
-"卒業,ソツギョウ,sotsugyou,graduation"
-"賃金,チンギン,chingin,wages"
-"越える,コエル,koeru,to exceed (verb)"
-"合格,ゴウカク,goukaku,passing"
-"まつ,マツ,matsu,to wait (verb)"
-"注目する,チュウモクスル,chuumokusuru,to focus on (verb)"
-"骨,ホネ,hone,bone"
-"機構,キコウ,kikou,organization"
-"お薦め,オススメ,osusume,recommendation"
-"席,セキ,seki,seat"
-"喜び,ヨロコビ,yorokobi,joy"
-"表,オモテ,omote,front"
-"いったい,イッタイ,ittai,what on earth"
-"管理する,カンリスル,kanrisuru,to manage (verb)"
-"二,ニ,ni,two"
-"要望,ヨウボウ,youbou,request"
-"落とす,オトス,otosu,to drop (verb)"
-"主張する,シュチョウスル,shuchousuru,to insist (verb)"
-"楽しめる,タノシメル,tanoshimeru,to be enjoyable (verb)"
-"指示,シジ,shiji,instruction"
-"雑誌,ザッシ,zasshi,magazine"
-"追加,ツイカ,tsuika,addition"
-"備える,ソナエル,sonaeru,to prepare (verb)"
-"火,ヒ,hi,fire"
-"自治体,ジチタイ,jichitai,municipality"
-"売り上げ,ウリアゲ,uriage,sales"
-"応じる,オウジル,oujiru,to respond (verb)"
-"幅広い,ハバヒロイ,habahiroi,wide (adj)"
-"適用,テキヨウ,tekiyou,application"
-"白い,シロイ,shiroi,white (adj)"
-"保育,ホイク,hoiku,childcare"
-"間違う,マチガウ,machigau,to make a mistake (verb)"
-"寒い,サムイ,samui,cold (adj)"
-"加入,カニュウ,kanyuu,joining"
-"殺す,コロス,korosu,to kill (verb)"
-"午後,ゴゴ,gogo,afternoon"
-"曲,キョク,kyoku,tune"
-"両方,リョウホウ,ryouhou,both"
-"使い,ツカイ,tsukai,use"
-"貴重な,キチョウナ,kichouna,precious (adj)"
-"貴重,キチョウ,kichou,value"
-"いくら,イクラ,ikura,how much"
-"広げる,ヒロゲル,hirogeru,to spread (verb)"
-"公開する,コウカイスル,koukaisuru,to make public (verb)"
-"できるだけ,デキルダケ,dekirudake,as much as possible"
-"主体,シュタイ,shutai,main body"
-"以来,イライ,irai,since"
-"トイレ,トイレ,toire,toilet"
-"最適な,サイテキナ,saitekina,optimal (adj)"
-"最適,サイテキ,saiteki,optimum"
-"削減,サクゲン,sakugen,reduction"
-"高まる,タカマル,takamaru,to rise (verb)"
-"何らかの,ナンラカノ,nanrakano,some"
-"人類,ジンルイ,jinrui,humanity"
-"訪問,ホウモン,houmon,visit"
-"奥,オク,oku,interior"
-"少年,ショウネン,shounen,boy"
-"ベース,ベース,besu,base"
-"円,エン,en,yen"
-"多少,タショウ,tashou,somewhat"
-"座る,スワル,suwaru,to sit (verb)"
-"経験する,ケイケンスル,keikensuru,to experience (verb)"
-"測定,ソクテイ,sokutei,measurement"
-"アップ,アップ,appu,up"
-"編集,ヘンシュウ,henshuu,editing"
-"受け付け,ウケツケ,uketsuke,reception"
-"問い,トイ,toi,question"
-"整理,セイリ,seiri,organization"
-"経つ,タツ,tatsu,to pass (verb)"
-"よる,ヨル,yoru,night"
-"憲法,ケンポウ,kenpou,constitution"
-"生み出す,ウミダス,umidasu,to produce (verb)"
-"おかしい,オカシイ,okashii,strange (adj)"
-"発見,ハッケン,hakken,discovery"
-"余裕,ヨユウ,yoyuu,leeway"
-"役,ヤク,yaku,role"
-"安定する,アンテイスル,anteisuru,to stabilize (verb)"
-"戦い,タタカイ,tatakai,fight"
-"入力,ニュウリョク,nyuuryoku,input"
-"太陽,タイヨウ,taiyou,sun"
-"比較,ヒカク,hikaku,comparison"
-"遺伝子,イデンシ,idenshi,gene"
-"協力する,キョウリョクスル,kyouryokusuru,to cooperate (verb)"
-"希望する,キボウスル,kibousuru,to hope (verb)"
-"ニュース,ニュース,nyusu,news"
-"男女,ダンジョ,danjo,men and women"
-"強化,キョウカ,kyouka,strengthening"
-"保健,ホケン,hoken,health"
-"都合,ツゴウ,tsugou,convenience"
-"近づく,チカヅク,chikazuku,to approach (verb)"
-"マイナス,マイナス,mainasu,minus"
-"面接,メンセツ,mensetsu,interview"
-"当日,トウジツ,toujitsu,on the day"
-"舞台,ブタイ,butai,stage"
-"チェックする,チェックスル,chekkusuru,to check (verb)"
-"株,カブ,kabu,stock"
-"捉える,トラエル,toraeru,to capture (verb)"
-"担当する,タントウスル,tantousuru,to be in charge (verb)"
-"豊富な,ホウフナ,houfuna,abundant (adj)"
-"豊富,ホウフ,houfu,abundance"
-"了承,リョウショウ,ryoushou,consent"
-"教員,キョウイン,kyouin,teacher"
-"ライン,ライン,rain,line"
-"通じる,ツウジル,tsuujiru,to communicate (verb)"
-"担う,ニナウ,ninau,to bear (verb)"
-"速度,ソクド,sokudo,speed"
-"子育て,コソダテ,kosodate,child-rearing"
-"支援する,シエンスル,shiensuru,to support (verb)"
-"一言,ヒトコト,hitokoto,one word"
-"参照,サンショウ,sanshou,reference"
-"需要,ジュヨウ,juyou,demand"
-"次第,シダイ,shidai,depending on"
-"民族,ミンゾク,minzoku,ethnic group"
-"結論,ケツロン,ketsuron,conclusion"
-"実態,ジッタイ,jittai,reality"
-"プロセス,プロセス,purosesu,process"
-"薄い,ウスイ,usui,thin (adj)"
-"抜ける,ヌケル,nukeru,to come out (verb)"
-"スピード,スピード,supido,speed"
-"画,エ,e,picture"
-"脂肪,シボウ,shibou,fat"
-"関連する,カンレンスル,kanrensuru,to relate (verb)"
-"取り入れる,トリイレル,toriireru,to incorporate (verb)"
-"水準,スイジュン,suijun,standard"
-"スキル,スキル,sukiru,skill"
-"季節,キセツ,kisetsu,season"
-"芸術,ゲイジュツ,geijutsu,art"
-"鳥,トリ,tori,bird"
-"給付,キュウフ,kyuufu,benefit"
-"若者,ワカモノ,wakamono,youth"
-"制作,セイサク,seisaku,production"
-"想像,ソウゾウ,souzou,imagination"
-"発行,ハッコウ,hakkou,publication"
-"臨床,リンショウ,rinshou,clinical"
-"特性,トクセイ,tokusei,characteristic"
-"落ち着く,オチツク,ochitsuku,to calm down (verb)"
-"まるで,マルデ,marude,as if"
-"独立,ドクリツ,dokuritsu,independence"
-"窓,マド,mado,window"
-"発展する,ハッテンスル,hattensuru,to develop (verb)"
-"各地,カクチ,kakuchi,various regions"
-"ますます,マスマス,masumasu,increasingly"
-"開催,カイサイ,kaisai,holding"
-"せい,セイ,sei,consequence"
-"緑,ミドリ,midori,green"
-"及ぶ,オヨブ,oyobu,to reach (verb)"
-"心がける,ココロガケル,kokorogakeru,to keep in mind (verb)"
-"ウマ,ウマ,uma,horse"
-"指摘,シテキ,shiteki,pointing out"
-"終了する,シュウリョウスル,shuuryousuru,to end (verb)"
-"渡す,ワタス,watasu,to hand over (verb)"
-"保存,ホゾン,hozon,preservation"
-"適正な,テキセイナ,tekiseina,appropriate (adj)"
-"適正,テキセイ,tekisei,appropriateness"
-"建てる,タテル,tateru,to build (verb)"
-"継続する,ケイゾクスル,keizokusuru,to continue (verb)"
-"もん,モン,mon,gate"
-"急な,キュウナ,kyuuna,sudden (adj)"
-"急,キュウ,kyuu,urgent"
-"成立する,セイリツスル,seiritsusuru,to be established (verb)"
-"実行する,ジッコウスル,jikkousuru,to execute (verb)"
-"通知,ツウチ,tsuuchi,notification"
-"市長,シチョウ,shichou,mayor"
-"甘い,アマイ,amai,sweet (adj)"
-"証券,ショウケン,shouken,securities"
-"助ける,タスケル,tasukeru,to help (verb)"
-"連れる,ツレル,tsureru,to take along (verb)"
-"復興,フッコウ,fukkou,reconstruction"
-"スペース,スペース,supesu,space"
-"施策,シサク,shisaku,measure"
-"性能,セイノウ,seinou,performance"
-"人数,ニンズウ,ninzuu,number of people"
-"素敵な,ステキナ,sutekina,wonderful (adj)"
-"素敵,ステキ,suteki,wonderful"
-"床,ユカ,yuka,floor"
-"ウイルス,ウィルス,rusu,virus"
-"形成,ケイセイ,keisei,formation"
-"刺激,シゲキ,shigeki,stimulus"
-"シリーズ,シリーズ,shirizu,series"
-"仕様,シヨウ,shiyou,specification"
-"エリア,エリア,eria,area"
-"向く,ムク,muku,to face (verb)"
-"報酬,ホウシュウ,houshuu,reward"
-"教会,キョウカイ,kyoukai,church"
-"泣く,ナク,naku,to cry (verb)"
-"州,シュウ,shuu,state"
-"肩,カタ,kata,shoulder"
-"主張,シュチョウ,shuchou,claim"
-"亡くなる,ナクナル,nakunaru,to die (verb)"
-"足りる,タリル,tariru,to be enough (verb)"
-"減らす,ヘラス,herasu,to reduce (verb)"
-"退職,タイショク,taishoku,retirement"
-"分かり,ワカリ,wakari,understanding"
-"歌う,ウタウ,utau,to sing (verb)"
-"腕,ウデ,ude,arm"
-"出来事,デキゴト,dekigoto,event"
-"感想,カンソウ,kansou,impression"
-"容易な,ヨウイナ,youina,easy (adj)"
-"容易,ヨウイ,youi,ease"
-"付近,フキン,fukin, Nearby"
+Japanese,English,Reading
+いる,to be (verb - animate),イル
+こと,thing/matter,コト
+の,of (possessive particle),ノ
+する,to do (verb),スル
+ある,to be/exist (verb - inanimate),アル
+なる,to become (verb),ナル
+よう,appearance/manner,ヨウ
+その,that (pre-noun),ソノ
+できる,can/to be able (verb),デキル
+この,this (pre-noun),コノ
+思う,to think (verb),オモウ
+言う,to say (verb),イウ
+もの,thing/object,モノ
+ため,for the sake of,タメ
+人,person/people,ヒト
+場合,case/situation,バアイ
+ない,to not exist/not have (verb),ナイ
+くる,to come (verb),クル
+とき,time/when,トキ
+自分,myself/oneself,ジブン
+いく,to go (verb),イク
+ほう,direction/method,ホウ
+行う,to perform/conduct (verb),オコナウ
+ん,(informal sentence ending),ン
+下さる,to give (honorific verb),クダサル
+見る,to see/look (verb),ミル
+よい,good (adj),ヨイ
+考える,to think (verb),カンガエル
+必要な,necessary (adj),ヒツヨウナ
+必要,necessity,ヒツヨウ
+しまう,to finish/put away (verb),シマウ
+なか,inside,ナカ
+多い,many/numerous (adj),オオイ
+持つ,to have/hold (verb),モツ
+おる,to be (humble verb),オル
+月,moon/month,ツキ
+今,now,イマ
+分かる,to understand (verb),ワカル
+問題,problem/question,モンダイ
+いい,good (adj),イイ
+情報,information,ジョウホウ
+ところ,place,トコロ
+使う,to use (verb),ツカウ
+他,other/another,ホカ
+出る,to go out/exit (verb),デル
+いただく,to receive (humble verb),イタダク
+みる,to see/look (verb),ミル
+子供,child,コドモ
+どう,how,ドウ
+前,front/before,マエ
+本,book,ホン
+力,power/strength,チカラ
+時間,time/hour,ジカン
+可能な,possible (adj),カノウナ
+可能,possibility,カノウ
+作る,to make (verb),ツクル
+やる,to do (verb - casual),ヤル
+家,home,ウチ
+社会,society,シャカイ
+受ける,to receive (verb),ウケル
+くれる,to give (verb - to me),クレル
+関係,relationship,カンケイ
+知る,to know (verb),シル
+体,body,カラダ
+高い,high/expensive (adj),タカイ
+わけ,reason,ワケ
+入る,to enter (verb),ハイル
+以上,more than/that's all,イジョウ
+行く,to go (verb),イク
+聞く,to listen/ask (verb),キク
+気,spirit/mood,キ
+同じ,same (adj),オナジ
+てる,(casual progressive form),テル
+上,above,ウエ
+生活,daily life,セイカツ
+全て,all,スベテ
+世界,world,セカイ
+方法,method,ホウホウ
+研究,research,ケンキュウ
+感じる,to feel (verb),カンジル
+一つ,one,ヒトツ
+事業,business,ジギョウ
+地域,region,チイキ
+利用,use,リヨウ
+仕事,work,シゴト
+書く,to write (verb),カク
+そう,so/that way,ソウ
+企業,company,キギョウ
+環境,environment,カンキョウ
+さらに,furthermore,サラニ
+来る,to come (verb),クル
+現在,present/now,ゲンザイ
+話,talk/story,ハナシ
+のち,later/after,ノチ
+活動,activity,カツドウ
+人間,human,ニンゲン
+内容,content,ナイヨウ
+大きい,big (adj),オオキイ
+保険,insurance,ホケン
+結果,result,ケッカ
+状態,condition,ジョウタイ
+心,heart/mind,ココロ
+言葉,word/language,コトバ
+しれる,to become known (verb),シレル
+どの,which,ドノ
+教育,education,キョウイク
+やすい,easy/cheap (adj),ヤスイ
+状況,situation,ジョウキョウ
+意味,meaning,イミ
+特に,especially,トクニ
+重要な,important (adj),ジュウヨウナ
+重要,importance,ジュウヨウ
+おく,to put (verb),オク
+技術,technology,ギジュツ
+管理,management,カンリ
+時代,era,ジダイ
+部分,part,ブブン
+個人,individual,コジン
+もう,already,モウ
+大きな,big (adj),オオキナ
+少し,a little,スコシ
+違う,to differ (verb),チガウ
+先生,teacher,センセイ
+とても,very,トテモ
+サービス,service,サービス
+女性,woman,ジョセイ
+強い,strong (adj),ツヨイ
+効果,effect,コウカ
+得る,to obtain (verb),エル
+今回,this time,コンカイ
+そんな,such,ソンナ
+見える,to be visible (verb),ミエル
+学校,school,ガッコウ
+基本,basics,キホン
+実際,reality,ジッサイ
+出す,to take out (verb),ダス
+様々な,various (adj),サマザマナ
+様々,various,サマザマ
+手,hand,テ
+目,eye,メ
+入れる,to put in (verb),イレル
+次,next,ツギ
+日,day,ヒ
+もらう,to receive (verb),モラウ
+一般,general,イッパン
+委員,committee member,イイン
+以下,below,イカ
+致す,to do (humble verb),イタス
+間,interval/between,アイダ
+つく,to arrive (verb),ツク
+言える,to be sayable (verb),ユエル
+国,country,クニ
+経済,economy,ケイザイ
+目的,purpose,モクテキ
+変わる,to change (verb),カワル
+自然な,natural (adj),シゼンナ
+自然,nature,シゼン
+制度,system,セイド
+障害,obstacle,ショウガイ
+治療,treatment,チリョウ
+場所,place,バショ
+車,car,クルマ
+労働,labor,ロウドウ
+やはり,as expected,ヤハリ
+調査,investigation,チョウサ
+商品,product,ショウヒン
+そういう,that kind of,ソウイウ
+読む,to read (verb),ヨム
+後,after,アト
+呼ぶ,to call (verb),ヨブ
+医療,medical care,イリョウ
+よく,often,ヨーク
+システム,system,システム
+まず,first of all,マズ
+者,person,モノ
+対象,target,タイショウ
+少ない,few (adj),スクナイ
+大切な,important (adj),タイセツナ
+大切,importance,タイセツ
+本当に,truly,ホントウニ
+相手,partner,アイテ
+機能,function,キノウ
+会社,company,ガイシャ
+契約,contract,ケイヤク
+食べる,to eat (verb),タベル
+写真,photograph,シャシン
+家族,family,カゾク
+かかる,to take (time/money) (verb),カカル
+利用する,to use (verb),リヨウスル
+求める,to seek (verb),モトメル
+つける,to attach (verb),ツケル
+使用する,to use (verb),シヨウスル
+大学,university,ダイガク
+施設,facility,シセツ
+以外,other than,イガイ
+気持ち,feeling,キモチ
+計画,plan,ケイカク
+水,water,ミズ
+悪い,bad (adj),ワルイ
+まったく,completely,マッタク
+化する,to change into (verb),カスル
+与える,to give (verb),アタエル
+機関,institution,キカン
+理由,reason,リユウ
+新しい,new (adj),アタラシイ
+自身,oneself,ジシン
+患者,patient,カンジャ
+形,shape,カタチ
+欲しい,wanted (adj),ホシイ
+含む,to include (verb),フクム
+いける,can go (verb),イケル
+それぞれ,each,ソレゾレ
+お客様,customer,オキャクサマ
+いただける,can receive (verb),イタダケル
+うち,home,ウチ
+電話,telephone,デンワ
+意見,opinion,イケン
+最初,first,サイショ
+専門,specialty,センモン
+今後,from now on,コンゴ
+かなり,considerably,カナリ
+すぐ,immediately,スグ
+非常な,extreme (adj),ヒジョウナ
+非常,emergency,ヒジョウ
+影響,influence,エイキョウ
+期間,period,キカン
+必ず,without fail,カナラズ
+示す,to show (verb),シメス
+皆,everyone,ミンナ
+サイト,site,サイト
+点,point,テン
+開発,development,カイハツ
+病院,hospital,ビョウイン
+経験,experience,ケイケン
+教える,to teach (verb),オシエル
+まだ,still,マダ
+長い,long (adj),ナガイ
+支援,support,シエン
+責任,responsibility,セキニン
+難しい,difficult (adj),ムズカシイ
+安全な,safe (adj),アンゼンナ
+安全,safety,アンゼン
+ちょっと,a little,チョット
+認める,to recognize (verb),ミトメル
+一緒,together,イッショ
+今日,today,キョウ
+相談,consultation,ソウダン
+使用,use,シヨウ
+かける,to hang (verb),カケル
+はず,should,ハズ
+取る,to take (verb),トル
+評価,evaluation,ヒョウカ
+生きる,to live (verb),イキル
+原因,cause,ゲンイン
+あまり,not much,アマリ
+進む,to advance (verb),ススム
+感じ,feeling,カンジ
+データ,data,データ
+ほとんど,mostly,ホトンド
+作品,work,サクヒン
+思い,thought,オモイ
+説明,explanation,セツメイ
+最後,last,サイゴ
+先,ahead,サキ
+経営,management,ケイエイ
+能力,ability,ノウリョク
+紹介する,to introduce (verb),ショウカイスル
+声,voice,コエ
+最近,recently,サイキン
+指導,guidance,シドウ
+合わせる,to match (verb),アワセル
+子,child,コ
+異なる,to differ (verb),コトナル
+まま,as it is,ママ
+最も,most,モットモ
+選ぶ,to choose (verb),エラブ
+これから,from now on,コレカラ
+国民,national,コクミン
+人々,people,ヒトビト
+初めて,for the first time,ハジメテ
+簡単な,easy (adj),カンタンナ
+簡単,easy,カンタン
+条件,condition,ジョウケン
+いろいろ,various,イロイロ
+文化,culture,ブンカ
+組織,organization,ソシキ
+対応,response,タイオウ
+音,sound,オト
+自由な,free (adj),ジユウナ
+自由,freedom,ジユウ
+行動,action,コウドウ
+運動,exercise,ウンドウ
+とる,to take (verb),トル
+楽しい,fun (adj),タノシイ
+対策,countermeasure,タイサク
+業務,business,ギョウム
+飲む,to drink (verb),ノム
+神,god,カミ
+増える,to increase (verb),フエル
+国際,international,コクサイ
+関わる,to be involved (verb),カカワル
+政府,government,セイフ
+続く,to continue (verb),ツヅク
+もっと,more,モット
+命,life,イノチ
+置く,to put (verb),オク
+買う,to buy (verb),カウ
+もちろん,of course,モチロン
+より,more than,ヨリ
+質問,question,シツモン
+下,below,シタ
+精神,spirit,セイシン
+作業,work,サギョウ
+続ける,to continue (verb),ツヅケル
+道,road,ミチ
+際,occasion,サイ
+基準,standard,キジュン
+働く,to work (verb),ハタラク
+こんな,like this,コンナ
+頭,head,アタマ
+健康な,healthy (adj),ケンコウナ
+健康,health,ケンコウ
+メール,email,メール
+どんな,what kind,ドンナ
+確認,confirmation,カクニン
+当時,at that time,トウジ
+確認する,to confirm (verb),カクニンスル
+早い,early (adj),ハヤイ
+すでに,already,スデニ
+ふつう,normal,フツウ
+映画,movie,エイガ
+具体,concrete,グタイ
+身,body,ミ
+価値,value,カチ
+意識,consciousness,イシキ
+決める,to decide (verb),キメル
+自己,self,ジコ
+歴史,history,レキシ
+主義,principle,シュギ
+伝える,to convey (verb),ツタエル
+知識,knowledge,チシキ
+物,thing,モノ
+時期,period,ジキ
+行為,act,コウイ
+過ぎる,to pass (verb),スギル
+理解,understanding,リカイ
+進める,to advance (verb),ススメル
+中心,center,チュウシン
+学ぶ,to learn (verb),マナブ
+大変な,tough (adj),タイヘンナ
+大変,very,タイヘン
+頃,around,コロ
+取り引き,transaction,トリヒキ
+存在する,to exist (verb),ソンザイスル
+姿,figure,スガタ
+用いる,to use (verb),モチイル
+学生,student,ガクセイ
+年金,pension,ネンキン
+生まれる,to be born (verb),ウマレル
+起こる,to occur (verb),オコル
+顔,face,カオ
+生産,production,セイサン
+始める,to begin (verb),ハジメル
+存在,existence,ソンザイ
+なぜ,why,ナゼ
+始まる,to begin (verb),ハジマル
+残る,to remain (verb),ノコル
+定める,to establish (verb),サダメル
+検査,inspection,ケンサ
+政治,politics,セイジ
+地方,region,チホウ
+試験,exam,シケン
+変化,change,ヘンカ
+うまい,skilled/delicious (adj),ウマイ
+参加,participation,サンカ
+家庭,household,カテイ
+発生する,to occur (verb),ハッセイスル
+変える,to change (verb),カエル
+男性,male,ダンセイ
+事実,fact,ジジツ
+こう,like this,コウ
+実施する,to implement (verb),ジッシスル
+直接な,direct (adj),チョクセツナ
+直接,directly,チョクセツ
+事故,accident,ジコ
+方向,direction,ホウコウ
+当然,naturally,トウゼン
+しっかり,firmly,シッカリ
+例,example,レイ
+提供する,to provide (verb),テイキョウスル
+目指す,to aim (verb),メザス
+歩く,to walk (verb),アルク
+保護,protection,ホゴ
+構造,structure,コウゾウ
+人生,life,ジンセイ
+終わる,to end (verb),オワル
+理解する,to understand (verb),リカイスル
+なかなか,very,ナカナカ
+レベル,level,レベル
+英語,English,エイゴ
+価格,price,カカク
+描く,to draw (verb),エガク
+いつも,always,イツモ
+みたい,like,ミタイ
+目標,goal,モクヒョウ
+行政,administration,ギョウセイ
+足,foot,アシ
+違い,difference,チガイ
+花,flower,ハナ
+センター,center,センター
+説明する,to explain (verb),セツメイスル
+開く,to open (verb),ヒラク
+皆さん,everyone,ミナサン
+もし,if,モシ
+お金,money,オカネ
+これらの,these,コレラノ
+資料,materials,シリョウ
+頑張る,to do one's best (verb),ガンバル
+病気,illness,ビョウキ
+当社,our company,トウシャ
+住宅,residence,ジュウタク
+深い,deep (adj),フカイ
+分野,field,ブンヤ
+守る,to protect (verb),マモル
+名前,name,ナマエ
+以前,before,イゼン
+症状,symptom,ショウジョウ
+現実,reality,ゲンジツ
+課題,assignment,カダイ
+すごい,amazing (adj),スゴイ
+種類,type,シュルイ
+沢山な,many (adj),タクサンナ
+沢山,many,タクサン
+消費,consumption,ショウヒ
+団体,organization,ダンタイ
+戻る,to return (verb),モドル
+男,man,オトコ
+金融,finance,キンユウ
+科学,science,カガク
+近い,near (adj),チカイ
+製品,product,セイヒン
+限り,limit,カギリ
+親,parent,オヤ
+ポイント,point,ポイント
+含める,to include (verb),フクメル
+店,shop,ミセ
+参加する,to participate (verb),サンカスル
+同様な,similar (adj),ドウヨウナ
+同様,similarly,ドウヨウ
+政策,policy,セイサク
+部屋,room,ヘヤ
+事件,incident,ジケン
+ページ,page,ページ
+エネルギー,energy,エネルギー
+市場,market,イチバ
+段階,stage,ダンカイ
+特別な,special (adj),トクベツナ
+特別,special,トクベツ
+続ける,to continue (verb),ツヅケル
+規定,regulation,キテイ
+全国,nationwide,ゼンコク
+負担,burden,フタン
+同時に,simultaneously,ドウジニ
+土地,land,トチ
+通常,usually,ツウジョウ
+低い,low (adj),ヒクイ
+明らかな,obvious (adj),アキラカナ
+明らか,clear,アキラカ
+被害,damage,ヒガイ
+報告,report,ホウコク
+小さい,small (adj),チイサイ
+考え,thought,カンガエ
+都市,city,トシ
+広い,wide (adj),ヒロイ
+費用,cost,ヒヨウ
+設定,setting,セッテイ
+正しい,correct (adj),タダシイ
+手続き,procedure,テツヅキ
+海外,overseas,カイガイ
+投資,investment,トウシ
+将来,future,ショウライ
+連絡,contact,レンラク
+新たな,new (adj),アラタナ
+新た,new,アラタ
+つながる,to connect (verb),ツナガル
+そのまま,as it is,ソノママ
+場,place,バ
+変更,change,ヘンコウ
+表示する,to display (verb),ヒョウジスル
+販売,sale,ハンバイ
+法律,law,ホウリツ
+二つ,two,フタツ
+注意,caution,チュウイ
+自ら,oneself,ミズカラ
+十分な,enough (adj),ジュウブンナ
+十分,sufficiently,ジュウブン
+取り組む,to tackle (verb),トリクム
+外国,foreign country,ガイコク
+身体,body,シンタイ
+過去,past,カコ
+送る,to send (verb),オクル
+あの,that,アノ
+登録,registration,トウロク
+生じる,to occur (verb),ショウジル
+気づく,to notice (verb),キヅク
+お願いする,to request (verb),オネガイスル
+学習,study,ガクシュウ
+面白い,interesting (adj),オモシロイ
+逆な,opposite (adj),ギャクナ
+逆,reverse,ギャク
+こういう,this kind,コウイウ
+楽しむ,to enjoy (verb),タノシム
+夢,dream,ユメ
+帰る,to return (verb),カエル
+完全な,complete (adj),カンゼンナ
+完全,completely,カンゼン
+乗る,to ride (verb),ノル
+覚える,to memorize (verb),オボエル
+述べる,to state (verb),ノベル
+走る,to run (verb),ハシル
+昔,old days,ムカシ
+協力,cooperation,キョウリョク
+にくい,difficult (adj),ニクイ
+所,place,トコロ
+範囲,range,ハンイ
+医師,doctor,イシ
+勉強,study,ベンキョウ
+本人,the person themselves,ホンニン
+忘れる,to forget (verb),ワスレル
+いずれ,eventually,イズレ
+対応する,to respond (verb),タイオウスル
+図る,to plan (verb),ハカル
+授業,lesson,ジュギョウ
+テレビ,TV,テレビ
+探す,to search (verb),サガス
+国家,nation,コッカ
+考え方,way of thinking,カンガエカタ
+通り,street,トオリ
+特徴,characteristic,トクチョウ
+立つ,to stand (verb),タツ
+母,mother,ハハ
+住む,to live (verb),スム
+現れる,to appear (verb),アラワレル
+内,inside,ナカ
+希望,hope,キボウ
+色,color,イロ
+参考,reference,サンコウ
+戦争,war,センソウ
+産業,industry,サンギョウ
+担当,in charge,タントウ
+銀行,bank,ギンコウ
+今年,this year,コトシ
+光,light,ヒカリ
+介護,nursing care,カイゴ
+会員,member,カイイン
+大事な,important (adj),ダイジナ
+大事,importance,ダイジ
+処理,processing,ショリ
+判断,judgment,ハンダン
+機会,opportunity,キカイ
+超える,to exceed (verb),コエル
+グループ,group,グループ
+役割,role,ヤクワリ
+常に,always,ツネニ
+予定,schedule,ヨテイ
+危険な,dangerous (adj),キケンナ
+危険,danger,キケン
+基礎,foundation,キソ
+市民,citizen,シミン
+海,sea,カイ
+笑い,laughter,ワライ
+右,right,ミギ
+山,mountain,ヤマ
+規模,scale,キボ
+法人,corporation,ホウジン
+有効な,valid (adj),ユウコウナ
+有効,valid,ユウコウ
+こうした,these,コウシタ
+方々,people,カタガタ
+以降,from now on,イコウ
+年,year,トシ
+イメージ,image,イメージ
+詳しい,detailed (adj),クワシイ
+カード,card,カード
+嬉しい,happy (adj),ウレシイ
+手術,surgery,シュジュツ
+営業,sales,エイギョウ
+美味しい,delicious (adj),オイシイ
+会議,meeting,カイギ
+体験,experience,タイケン
+起きる,to wake up (verb),オキル
+調べる,to investigate (verb),シラベル
+成長,growth,セイチョウ
+食事,meal,ショクジ
+税,tax,ゼイ
+当該,the said,トウガイ
+外,outside,ソト
+話す,to speak (verb),ハナス
+資格,qualification,シカク
+確かに,certainly,タシカニ
+現場,site,ゲンバ
+職員,staff,ショクイン
+立場,position,タチバ
+残す,to leave (verb),ノコス
+業者,contractor,ギョウシャ
+事務,office work,ジム
+物質,substance,ブッシツ
+別な,another (adj),ベツナ
+別,another,ベツ
+ケース,case,ケース
+文字,character,モジ
+細胞,cell,サイボウ
+音楽,music,オンガク
+提供,provision,テイキョウ
+タイプ,type,タイプ
+値,value,アタイ
+木,tree,キ
+待つ,to wait (verb),マツ
+料金,fee,リョウキン
+始め,beginning,ハジメ
+死ぬ,to die (verb),シヌ
+ゲーム,game,ゲーム
+父,father,チチ
+口,mouth,クチ
+不安な,anxious (adj),フアンナ
+不安,anxiety,フアン
+夜,night,ヨル
+辺り,vicinity,ホトリ
+生徒,student,セイト
+きれいな,beautiful (adj),キレイナ
+きれい,beautiful,キレイ
+研修,training,ケンシュウ
+皆様,everyone,ミナサマ
+表現,expression,ヒョウゲン
+事項,matter,ジコウ
+申請,application,シンセイ
+金額,amount,キンガク
+記事,article,キジ
+指定,designation,シテイ
+語る,to talk (verb),カタル
+お願い,request,オネガイ
+建物,building,タテモノ
+申し上げる,to say (humble verb),モウシアゲル
+道路,road,ドウロ
+ずっと,continuously,ズット
+まあ,well,マア
+打つ,to hit (verb),ウツ
+若い,young (adj),ワカイ
+上記,above mentioned,ジョウキ
+社員,employee,シャイン
+地球,Earth,チキュウ
+議論,discussion,ギロン
+自体,itself,ジタイ
+積極,positive,セッキョク
+日本語,Japanese,ニホンゴ
+色々な,various (adj),イロイロナ
+色々,various,イロイロ
+向かう,to head (verb),ムカウ
+スタッフ,staff,スタッフ
+小さな,small (adj),チイサナ
+資金,funds,シキン
+厳しい,strict (adj),キビシイ
+最終,final,サイシュウ
+娘,daughter,ムスメ
+請求,claim,セイキュウ
+インターネット,internet,インターネット
+妻,wife,ツマ
+数,number,カズ
+権利,right,ケンリ
+支払い,payment,シハライ
+見せる,to show (verb),ミセル
+朝,morning,アサ
+作成する,to create (verb),サクセイスル
+上がる,to rise (verb),アガル
+繰り返す,to repeat (verb),クリカエス
+信じる,to believe (verb),シンジル
+周り,surroundings,マワリ
+薬,medicine,クスリ
+動き,movement,ウゴキ
+検討する,to consider (verb),ケントウスル
+最大,maximum,サイダイ
+安い,cheap (adj),ヤスイ
+脳,brain,ノウ
+利益,profit,リエキ
+画像,image,ガゾウ
+携帯,mobile phone,ケイタイ
+近く,nearby,チカク
+代表,representative,ダイヒョウ
+程度,degree,テイド
+旅行,trip,リョコウ
+ぜひ,by all means,ゼヒ
+当たる,to hit (verb),アタル
+動物,animal,ドウブツ
+なくなる,to disappear (verb),ナクナル
+住民,resident,ジュウミン
+動く,to move (verb),ウゴク
+興味,interest,キョウミ
+福祉,welfare,フクシ
+特定,specific,トクテイ
+年齢,age,ネンレイ
+リスク,risk,リスク
+会う,to meet (verb),アウ
+位置,location,イチ
+女,female,オンナ
+質,quality,シツ
+テーマ,theme,テーマ
+素晴らしい,wonderful (adj),スバラシイ
+ホームページ,homepage,ホームページ
+決まる,to be decided (verb),キマル
+ネット,net,ネット
+地震,earthquake,ジシン
+適切な,appropriate (adj),テキセツナ
+適切,appropriate,テキセツ
+夫,husband,オット
+料理,cooking,リョウリ
+高齢,old age,コウレイ
+付ける,to attach (verb),ツケル
+国内,domestic,コクナイ
+総合,comprehensive,ソウゴウ
+購入,purchase,コウニュウ
+体制,system,タイセイ
+改善,improvement,カイゼン
+結構,fairly,ケッコウ
+実施,implementation,ジッシ
+金,gold,テツ
+駄目な,no good (adj),ダメナ
+駄目,no good,ダメ
+友達,friend,トモダチ
+コース,course,コース
+くださる,to give (honorific verb),クダサル
+本当,truth,ホントウ
+ファイル,file,ファイル
+まとめる,to summarize (verb),マトメル
+様子,state,ヨウス
+組合,union,クミアイ
+判断する,to judge (verb),ハンダンスル
+工事,construction,コウジ
+美しい,beautiful (adj),ウツクシイ
+日常,daily life,ニチジョウ
+効率,efficiency,コウリツ
+思える,to seem (verb),オモエル
+起こす,to cause (verb),オコス
+流れ,flow,ナガレ
+使える,to be usable (verb),ツカエル
+関連,relation,カンレン
+左,left,ヒダリ
+原則,principle,ゲンソク
+決定,decision,ケッテイ
+画面,screen,ガメン
+上げる,to raise (verb),アゲル
+印象,impression,インショウ
+あげる,to give (verb),アゲル
+無料,free,ムリョウ
+プログラム,program,プログラム
+整備,maintenance,セイビ
+申し込み,application,モウシコミ
+傾向,tendency,ケイコウ
+ビジネス,business,ビジネス
+とおり,as expected,トオリ
+紹介,introduction,ショウカイ
+困難な,difficult (adj),コンナンナ
+困難,difficulty,コンナン
+現状,current situation,ゲンジョウ
+感覚,sensation,カンカク
+おる,to be (humble verb),オル
+ほぼ,almost,ホボ
+取り組み,effort,トリクミ
+解決,solution,カイケツ
+長,length,チョウ
+見つける,to find (verb),ミツケル
+選択,choice,センタク
+結局,after all,ケッキョク
+準備,preparation,ジュンビ
+ゼロ,zero,ゼロ
+検討,consideration,ケントウ
+項目,item,コウモク
+新聞,newspaper,シンブン
+図,diagram,ズ
+購入する,to purchase (verb),コウニュウスル
+酒,alcohol,サケ
+どういう,what kind,ドウイウ
+問い合わせ,inquiry,トイアワセ
+自動車,automobile,ジドウシャ
+高校,high school,コウコウ
+交通,transportation,コウツウ
+設定する,to set (verb),セッテイスル
+大臣,minister,ダイジン
+実現する,to realize (verb),ジツゲンスル
+電子,electronic,デンシ
+途中,on the way,トチュウ
+優しい,kind (adj),ヤサシイ
+運営,operation,ウンエイ
+白,white,シロ
+現代,modern times,ゲンダイ
+建築,architecture,ケンチク
+合う,to fit (verb),アウ
+そのもの,the thing itself,ソノモノ
+失う,to lose (verb),ウシナウ
+表示,display,ヒョウジ
+努力,effort,ドリョク
+雇用,employment,コヨウ
+パソコン,personal computer,パソコン
+一定な,fixed (adj),イッテイナ
+一定,certain,イッテイ
+答える,to answer (verb),コタエル
+選択する,to select (verb),センタクスル
+無理な,impossible (adj),ムリナ
+無理,impossible,ムリ
+える,to obtain (verb),エル
+多く,many,オオク
+バス,bus,バス
+結婚,marriage,ケッコン
+決して,never,ケッシテ
+要素,element,ヨウソ
+魅力,charm,ミリョク
+付く,to attach (verb),ツク
+設計,design,セッケイ
+複数,multiple,フクスウ
+電気,electricity,デンキ
+明確な,clear (adj),メイカクナ
+明確,clarity,メイカク
+共同,joint,キョウドウ
+友人,friend,ユウジン
+きちんと,properly,キチント
+ちゃう,(casual negative),チャウ
+設置する,to install (verb),セッチスル
+長期,long term,チョウキ
+向上,improvement,コウジョウ
+しかた,method,シカタ
+まさに,exactly,マサニ
+回答,response,カイトウ
+離れる,to separate (verb),ハナレル
+日々,daily,ヒビ
+世紀,century,セイキ
+葉,leaf,ハ
+幸せな,happy (adj),シアワセナ
+幸せ,happiness,シアワセ
+活かす,to utilize (verb),イカス
+歯,tooth,ハ
+大人,adult,オトナ
+用意する,to prepare (verb),ヨウイスル
+豊かな,abundant (adj),ユタカナ
+豊か,abundance,ユタカ
+止まる,to stop (verb),トマル
+分ける,to divide (verb),ワケル
+痛み,pain,イタミ
+期待,expectation,キタイ
+広がる,to spread (verb),ヒロガル
+困る,to be troubled (verb),コマル
+自動,automatic,ジドウ
+バランス,balance,バランス
+全部,all,ゼンブ
+面,face,メン
+なす,eggplant,ナス
+止める,to stop (verb),トメル
+量,quantity,リョウ
+事務所,office,ジムショ
+神経,nerve,シンケイ
+分析,analysis,ブンセキ
+成果,result,セイカ
+開催する,to hold (verb),カイサイスル
+番号,number,バンゴウ
+人気,popularity,ニンキ
+比べる,to compare (verb),クラベル
+安定な,stable (adj),アンテイナ
+安定,stability,アンテイ
+メーカー,manufacturer,メーカー
+イベント,event,イベント
+分,minute,ブン
+信頼,trust,シンライ
+計算,calculation,ケイサン
+詳細な,detailed (adj),ショウサイナ
+詳細,detail,ショウサイ
+モデル,model,モデル
+活用する,to utilize (verb),カツヨウスル
+県,prefecture,ケン
+ユーザー,user,ユーザー
+デザイン,design,デザイン
+感情,emotion,カンジョウ
+癌,cancer,ガン
+掲載する,to publish (verb),ケイサイスル
+間違い,mistake,マチガイ
+裁判,trial,サイバン
+審査,examination,シンサ
+元気な,energetic (adj),ゲンキナ
+元気,energy,ゲンキ
+勧める,to recommend (verb),ススメル
+チーム,team,チーム
+看護,nursing,カンゴ
+切る,to cut (verb),キル
+期待する,to expect (verb),キタイスル
+予約,reservation,ヨヤク
+仲間,companion,ナカマ
+中央,center,チュウオウ
+加える,to add (verb),クワエル
+事前,in advance,ジゼン
+仕組み,mechanism,シクミ
+向ける,to direct (verb),ムケル
+至る,to reach (verb),イタル
+文,sentence,カキ
+重い,heavy (adj),オモイ
+通信,communication,ツウシン
+ござる,to be (honorific),ゴザル
+いろんな,various (adj),イロンナ
+もらえる,can receive (verb),モラエル
+実験,experiment,ジッケン
+攻撃,attack,コウゲキ
+風な,wind-like (adj),フウナ
+風,wind,フウ
+コミュニケーション,communication,コミュニケーション
+基づく,to be based on (verb),モトヅク
+避ける,to avoid (verb),ヨケル
+診断,diagnosis,シンダン
+犬,dog,イヌ
+支払う,to pay (verb),シハラウ
+売る,to sell (verb),ウル
+過ごす,to spend time (verb),スゴス
+いわゆる,so-called,イワユル
+空,sky,ソラ
+除く,to exclude (verb),ノゾク
+改革,reform,カイカク
+短い,short (adj),ミジカイ
+平均,average,ヘイキン
+年度,fiscal year,ネンド
+迎える,to welcome (verb),ムカエル
+財産,property,ザイサン
+育てる,to raise (verb),ソダテル
+資産,asset,シサン
+お話,talk,オハナシ
+雰囲気,atmosphere,フンイキ
+ブログ,blog,ブログ
+戦略,strategy,センリャク
+変更する,to change (verb),ヘンコウスル
+距離,distance,キョリ
+交流,exchange,コウリュウ
+挙げる,to raise (verb),アゲル
+業界,industry,ギョウカイ
+姿勢,posture,シセイ
+夏,summer,ナツ
+最高な,best (adj),サイコウナ
+最高,highest,サイコウ
+周辺,surroundings,シュウヘン
+視点,viewpoint,シテン
+原発,nuclear power plant,ゲンパツ
+作成,creation,サクセイ
+高める,to enhance (verb),タカメル
+文章,writing,ブンショウ
+知れる,to become known (verb),シレル
+記載する,to describe (verb),キサイスル
+落ちる,to fall (verb),オチル
+押す,to push (verb),オス
+とにかく,anyhow,トニカク
+調整,adjustment,チョウセイ
+予算,budget,ヨサン
+なれる,to become (verb),ナレル
+プロジェクト,project,プロジェクト
+限る,to limit (verb),カギル
+公共,public,コウキョウ
+発生,occurrence,ハッセイ
+単位,unit,タンイ
+軽い,light (adj),カルイ
+額,amount,ガク
+お客,customer,オキャク
+変化する,to change (verb),ヘンカスル
+答え,answer,コタエ
+似る,to resemble (verb),ニル
+立てる,to stand up (verb),タテル
+時点,point in time,ジテン
+設備,equipment,セツビ
+集まる,to gather (verb),アツマル
+措置,measure,ソチ
+災害,disaster,サイガイ
+魂,soul,タマシイ
+もともと,originally,モトモト
+発展,development,ハッテン
+大丈夫な,okay (adj),ダイジョウブナ
+大丈夫,okay,ダイジョウブ
+有名な,famous (adj),ユウメイナ
+有名,fame,ユウメイ
+義務,duty,ギム
+移動,movement,イドウ
+観光,sightseeing,カンコウ
+療法,therapy,リョウホウ
+宇宙,space,ウチュウ
+定期,regular,テイキ
+多様な,diverse (adj),タヨウナ
+多様,diversity,タヨウ
+ふう,style,フウ
+驚く,to be surprised (verb),オドロク
+伴う,to accompany (verb),トモナウ
+提出する,to submit (verb),テイシュツスル
+収入,income,シュウニュウ
+手段,means,シュダン
+疑問,doubt,ギモン
+交換,exchange,コウカン
+方針,policy,ホウシン
+注意する,to be careful (verb),チュウイスル
+多数,majority,タスウ
+壁,wall,カベ
+引く,to pull (verb),ヒク
+書類,document,ショルイ
+指定する,to specify (verb),シテイスル
+人材,human resources,ジンザイ
+他人,others,タニン
+絶対,absolute,ゼッタイ
+農業,agriculture,ノウギョウ
+昨年,last year,サクネン
+不動産,real estate,フドウサン
+練習,practice,レンシュウ
+割合,ratio,ワリアイ
+集める,to collect (verb),アツメル
+敵,enemy,テキ
+全員,all members,ゼンイン
+よろしく,regards,ヨロシク
+コスト,cost,コスト
+児童,children,ジドウ
+ストレス,stress,ストレス
+法,law,ホウ
+プロ,professional,プロ
+理論,theory,リロン
+運転,driving,ウンテン
+評価する,to evaluate (verb),ヒョウカスル
+勉強する,to study (verb),ベンキョウスル
+町,town,マチ
+確実な,certain (adj),カクジツナ
+確実,certainty,カクジツ
+地区,district,チク
+触れる,to touch (verb),フレル
+工場,factory,コウバ
+有する,to have (verb),ユウスル
+地元,hometown,ジモト
+今度,next time,コンド
+一切,all,イッサイ
+選手,player,センシュ
+所得,income,ショトク
+従来,conventional,ジュウライ
+届く,to arrive (verb),トドク
+なんとか,somehow,ナントカ
+減る,to decrease (verb),ヘル
+安心,relief,アンシン
+証明,proof,ショウメイ
+注文,order,チュウモン
+現象,phenomenon,ゲンショウ
+どんどん,steadily,ドンドン
+心理,psychology,シンリ
+良い,good (adj),ヨイ
+空間,space,クウカン
+耳,ear,ミミ
+異常な,abnormal (adj),イジョウナ
+異常,abnormality,イジョウ
+働き,work,ハタラキ
+メンバー,member,メンバー
+正確な,accurate (adj),セイカクナ
+正確,accuracy,セイカク
+以内,within,イナイ
+診療,medical treatment,シンリョウ
+残念な,unfortunate (adj),ザンネンナ
+残念,unfortunately,ザンネン
+流れる,to flow (verb),ナガレル
+本来,originally,ホンライ
+つもり,intention,ツモリ
+食品,food,ショクヒン
+予防,prevention,ヨボウ
+認識,recognition,ニンシキ
+小学校,elementary school,ショウガッコウ
+生物,organism,セイブツ
+監督,director,カントク
+支える,to support (verb),ツカエル
+建設,construction,ケンセツ
+明るい,bright (adj),アカルイ
+むしろ,rather,ムシロ
+横,side,ヨコ
+記録,record,キロク
+事情,circumstances,ジジョウ
+番組,program,バングミ
+側,side,ガワ
+努める,to endeavor (verb),ツトメル
+記憶,memory,キオク
+しばらく,for a while,シバラク
+ふだん,usually,フダン
+言語,language,ゴンゴ
+名,name,ナ
+ネットワーク,network,ネットワーク
+職場,workplace,ショクバ
+実現,realization,ジツゲン
+わが国,our country,ワガクニ
+元,yuan (currency),ガン
+絵,picture,エ
+製造,manufacturing,セイゾウ
+寝る,to sleep (verb),ネル
+未来,future,ミライ
+現地,actual place,ゲンチ
+安心する,to feel relieved (verb),アンシンスル
+資本,capital,シホン
+嫌な,disliked (adj),イヤナ
+嫌,dislike,イヤ
+味,taste,アジ
+設ける,to establish (verb),モウケル
+受験,exam,ジュケン
+資源,resource,シゲン
+関心,interest,カンシン
+なんと,what,ナント
+古い,old (adj),フルイ
+構成,composition,コウセイ
+反応,reaction,ハンノウ
+ある程度,to some extent,アルテイド
+反対,opposition,ハンタイ
+制限,restriction,セイゲン
+差,difference,サ
+人物,personality,ジンブツ
+悩む,to worry (verb),ナヤム
+相談する,to consult (verb),ソウダンスル
+好きな,favorite (adj),スキナ
+好き,like,スキ
+植物,plant,ショクブツ
+便利な,convenient (adj),ベンリナ
+便利,convenience,ベンリ
+スポーツ,sports,スポーツ
+地,ground,チ
+選挙,election,センキョ
+推進,promotion,スイシン
+ころ,about,コロ
+払う,to pay (verb),ハラウ
+ちゃんと,properly,チャント
+種,kind,シュ
+決定する,to decide (verb),ケッテイスル
+ホテル,hotel,ホテル
+連携,cooperation,レンケイ
+一度,once,イチド
+おそらく,probably,オソラク
+扱う,to handle (verb),アツカウ
+主に,mainly,オモニ
+胸,chest,ムネ
+運用,operation,ウンヨウ
+自信,self-confidence,ジシン
+企画,plan,キカク
+発電,power generation,ハツデン
+内部,inside,ナイブ
+著作,writing,チョサク
+弱い,weak (adj),ヨワイ
+広告,advertisement,コウコク
+きわめて,extremely,キワメテ
+規制,regulation,キセイ
+一人,one person,ヒトリ
+周囲,surroundings,シュウイ
+自宅,one's home,ジタク
+はっきり,clearly,ハッキリ
+開始,start,カイシ
+ボタン,button,ボタン
+過程,process,カテイ
+楽しみ,enjoyment,タノシミ
+どうしても,by all means,ドウシテモ
+母親,mother,ハハオヤ
+夫婦,married couple,フウフ
+コメント,comment,コメント
+あらかじめ,in advance,アラカジメ
+優れる,to excel (verb),スグレル
+損害,damage,ソンガイ
+やめる,to quit (verb),ヤメル
+辛い,painful (adj),ツライ
+空気,air,クウキ
+果たす,to fulfill (verb),ハタス
+機器,device,キキ
+出会う,to meet (verb),デアウ
+痛い,painful (adj),イタイ
+再び,again,フタタビ
+お互い,each other,オタガイ
+人口,population,ジンコウ
+装置,equipment,ソウチ
+たび,time,タビ
+民間,private,ミンカン
+各種,various,カクシュ
+かって,once,カツテ
+まいる,to come/go (humble verb),マイル
+きっと,surely,キット
+そういった,such,ソウイッタ
+渡る,to cross (verb),ワタル
+撮影,photography,サツエイ
+映像,video,エイゾウ
+公園,park,コウエン
+毎年,every year,マイトシ
+背景,background,ハイケイ
+クラス,class,クラス
+改めて,anew,アラタメテ
+集団,group,シュウダン
+保証,guarantee,ホショウ
+検索,search,ケンサク
+認識する,to recognize (verb),ニンシキスル
+就職,employment,シュウショク
+受け入れる,to accept (verb),ウケイレル
+補助,assistance,ホジョ
+取得,acquisition,シュトク
+世代,generation,セダイ
+性格,personality,セイカク
+標準,standard,ヒョウジュン
+訪れる,to visit (verb),オトズレル
+心配,worry,シンパイ
+ガス,gas,ガス
+街,town,マチ
+保障,security,ホショウ
+訓練,training,クンレン
+会,meeting,カイ
+船,ship,フネ
+不思議な,mysterious (adj),フシギナ
+不思議,mystery,フシギ
+領域,domain,リョウイキ
+競争,competition,キョウソウ
+サイズ,size,サイズ
+魚,fish,サカナ
+あくまで,to the end,アクマデ
+死,death,シ
+遅い,slow (adj),オソイ
+掲げる,to raise (verb),カカゲル
+そうした,such,ソウシタ
+喜ぶ,to be glad (verb),ヨロコブ
+ゆっくり,slowly,ユックリ
+認定,certification,ニンテイ
+終了,completion,シュウリョウ
+許可,permission,キョカ
+客,guest,キャク
+１つ,one,ヒトツ
+ルール,rule,ルール
+社長,company president,シャチョウ
+議員,assembly member,ギイン
+教室,classroom,キョウシツ
+機械,machine,キカイ
+派遣,dispatch,ハケン
+方式,method,ホウシキ
+願う,to wish (verb),ネガウ
+血,blood,チ
+大会,tournament,タイカイ
+クリックする,to click (verb),クリックスル
+宗教,religion,シュウキョウ
+実践,practice,ジッセン
+猫,cat,ネコ
+居る,to be (verb - animate),イル
+発表する,to announce (verb),ハッピョウスル
+当たり前な,natural (adj),アタリマエナ
+当たり前,naturally,アタリマエ
+首,neck,クビ
+取れる,to be able to take (verb),トレル
+一生,whole life,イッショウ
+野菜,vegetable,ヤサイ
+息子,son,ムスコ
+相続,inheritance,ソウゾク
+ソフトな,soft (adj),ソフトナ
+ソフト,software,ソフト
+部門,division,ブモン
+不足,shortage,フソク
+濃い,thick (adj),コイ
+解決する,to solve (verb),カイケツスル
+疾患,disease,シッカン
+数字,numeral,スウジ
+通う,to commute (verb),カヨウ
+金利,interest rate,キンリ
+提案,proposal,テイアン
+あらゆる,all,アラユル
+貼る,to paste (verb),ハル
+筋肉,muscle,キンニク
+許す,to forgive (verb),ユルス
+独自な,unique (adj),ドクジナ
+独自,originality,ドクジ
+規則,rule,キソク
+赤ちゃん,baby,アカチャン
+大量な,large (adj),タイリョウナ
+大量,large quantity,タイリョウ
+協会,association,キョウカイ
+経る,to pass through (verb),ヘル
+放送,broadcast,ホウソウ
+弁護士,lawyer,ベンゴシ
+増やす,to increase (verb),フヤス
+初期,initial stage,ショキ
+伝わる,to be transmitted (verb),ツタワル
+教師,teacher,キョウシ
+観点,point of view,カンテン
+確保,securement,カクホ
+操作,operation,ソウサ
+肌,skin,ハダ
+協議,conference,キョウギ
+手法,technique,シュホウ
+活用,utilization,カツヨウ
+たくさん,many,タクサン
+東,east,ヒガシ
+愛する,to love (verb),アイスル
+弊社,our company,ヘイシャ
+意識する,to be aware (verb),イシキスル
+取り扱い,handling,トリアツカイ
+怖い,scary (adj),コワイ
+登録する,to register (verb),トウロクスル
+導入,introduction,ドウニュウ
+習慣,habit,シュウカン
+表現する,to express (verb),ヒョウゲンスル
+当初,initially,トウショ
+たぶん,perhaps,タブン
+防止,prevention,ボウシ
+通る,to pass (verb),トオル
+いかに,how,イカニ
+材料,material,ザイリョウ
+気分,mood,キブン
+伝統,tradition,デントウ
+形式,form,ケイシキ
+聞こえる,to be heard (verb),キコエル
+継続,continuation,ケイゾク
+会話,conversation,カイワ
+要因,factor,ヨウイン
+後ろ,back,ハイゴ
+メッセージ,message,メッセージ
+チェック,check,チェック
+前提,premise,ゼンテイ
+比較的,comparatively,ヒカクテキ
+維持,maintenance,イジ
+物語,tale,モノガタリ
+抱える,to hold (verb),カカエル
+事例,example,ジレイ
+借りる,to borrow (verb),カリル
+採用する,to adopt (verb),サイヨウスル
+展開する,to develop (verb),テンカイスル
+改善する,to improve (verb),カイゼンスル
+再生,reproduction,サイセイ
+危機,crisis,キキ
+意思,intention,イシ
+発表,announcement,ハッピョウ
+動かす,to move (verb),ウゴカス
+理事,director,リジ
+化学,chemistry,カガク
+ごみ,trash,ゴミ
+神社,shrine,ジンジャ
+高度な,advanced (adj),コウドナ
+高度,altitude,コウド
+わずか,only,ワズカ
+活性,activity,カッセイ
+口座,account,コウザ
+専用,exclusive use,センヨウ
+成長する,to grow (verb),セイチョウスル
+品質,quality,ヒンシツ
+店舗,store,テンポ
+比較する,to compare (verb),ヒカクスル
+職業,occupation,ショクギョウ
+可愛い,cute (adj),カワイイ
+指摘する,to point out (verb),シテキスル
+望む,to hope (verb),ノゾム
+該当する,to apply (verb),ガイトウスル
+おっしゃる,to say (honorific verb),オッシャル
+従業,employment,ジュウギョウ
+きっかけ,opportunity,キッカケ
+確保する,to secure (verb),カクホスル
+取得する,to acquire (verb),シュトクスル
+展開,development,テンカイ
+思い出す,to remember (verb),オモイダス
+満足,satisfaction,マンゾク
+もたらす,to bring (verb),モタラス
+気軽な,casual (adj),キガルナ
+気軽,lightheartedness,キガル
+財政,finance,ザイセイ
+開発する,to develop (verb),カイハツスル
+アドバイス,advice,アドバイス
+案内,guidance,アンナイ
+受け取る,to receive (verb),ウケトル
+導入する,to introduce (verb),ドウニュウスル
+改正,revision,カイセイ
+雨,rain,アメ
+適用する,to apply (verb),テキヨウスル
+感染,infection,カンセン
+顧客,customer,コキャク
+サポート,support,サポート
+なさる,to do (honorific verb),ナサル
+遊ぶ,to play (verb),アソブ
+表面,surface,ヒョウメン
+市,city,イチ
+ひどい,terrible (adj),ヒドイ
+まだまだ,still,マダマダ
+考慮する,to consider (verb),コウリョスル
+愛,love,アイ
+川,river,カワ
+プラン,plan,プラン
+下がる,to lower (verb),サガル
+開始する,to start (verb),カイシスル
+依頼,request,イライ
+どうして,why,ドウシテ
+同士,fellow,ドウシ
+お母さん,mother,オカアサン
+満たす,to satisfy (verb),ミタス
+メニュー,menu,メニュー
+温度,temperature,オンド
+被災,disaster,ヒサイ
+ローン,loan,ローン
+開ける,to open (verb),アケル
+自転車,bicycle,ジテンシャ
+登場する,to appear (verb),トウジョウスル
+係る,to concern (verb),カカル
+設置,installation,セッチ
+警察,police,ケイサツ
+いくつか,several,イクツカ
+発見する,to discover (verb),ハッケンスル
+わが,our,ワガ
+回る,to turn (verb),マワル
+移動する,to move (verb),イドウスル
+冬,winter,フユ
+成功する,to succeed (verb),セイコウスル
+撮る,to take (photo) (verb),トル
+教授,professor,キョウジュ
+瞬間,moment,シュンカン
+所有,ownership,ショユウ
+政権,administration,セイケン
+ボランティア,volunteer,ボランティア
+駅,station,エキ
+同じな,same (adj),オナジナ
+並ぶ,to line up (verb),ナラブ
+理想,ideal,リソウ
+講座,course,コウザ
+細かい,detailed (adj),コマカイ
+厚生,public welfare,コウセイ
+電力,electric power,デンリョク
+捨てる,to throw away (verb),ステル
+拡大,expansion,カクダイ
+血液,blood,ケツエキ
+入院,hospitalization,ニュウイン
+笑う,to laugh (verb),ワラウ
+両親,parents,リョウシン
+カメラ,camera,カメラ
+一方,on the other hand,イッポウ
+丁寧な,polite (adj),テイネイナ
+丁寧,politeness,テイネイ
+特殊な,special (adj),トクシュナ
+特殊,specialty,トクシュ
+笑顔,smile,エガオ
+見つかる,to be found (verb),ミツカル
+丸,circle,マル
+作用,effect,サヨウ
+慣れる,to get used (verb),ナレル
+遠い,far (adj),トオイ
+構成する,to constitute (verb),コウセイスル
+会場,venue,カイジョウ
+あまりに,too much,アマリニ
+複雑な,complex (adj),フクザツナ
+複雑,complexity,フクザツ
+証拠,evidence,ショウコ
+メリット,merit,メリット
+共に,together,トモニ
+昨日,yesterday,キノウ
+土,soil,ツチ
+単純な,simple (adj),タンジュンナ
+単純,simplicity,タンジュン
+幅,width,ハバ
+駐車,parking,チュウシャ
+概念,concept,ガイネン
+勝手な,selfish (adj),カッテナ
+勝手,selfishness,カッテ
+トラブル,trouble,トラブル
+ケア,care,ケア
+年間,yearly,ネンカン
+素材,material,ソザイ
+裏,back,ウラ
+とりあえず,for now,トリアエズ
+是非,by all means,ゼヒ
+主な,main (adj),オモナ
+主,main,オモ
+発言,statement,ハツゲン
+話題,topic,ワダイ
+半分,half,ハンブン
+遊び,play,アソビ
+ちょうど,just,チョウド
+春,spring,ハル
+感謝,gratitude,カンシャ
+成功,success,セイコウ
+育成,development,イクセイ
+ニーズ,need,ニーズ
+取り上げる,to pick up (verb),トリアゲル
+把握する,to grasp (verb),ハアクスル
+医学,medical science,イガク
+場面,scene,バメン
+もう少し,a little more,モウスコシ
+条例,ordinance,ジョウレイ
+犯罪,crime,ハンザイ
+温泉,hot spring,オンセン
+真,truth,シン
+表す,to express (verb),アラワス
+報告する,to report (verb),ホウコクスル
+黒,black,クロ
+科目,subject,カモク
+激しい,intense (adj),ハゲシイ
+村,village,ムラ
+形態,form,ケイタイ
+会計,accounting,カイケイ
+前回,previous time,ゼンカイ
+従う,to obey (verb),シタガウ
+採用,adoption,サイヨウ
+流す,to flow (verb),ナガス
+成分,ingredient,セイブン
+クラブ,club,クラブ
+問う,to ask (verb),トウ
+事態,situation,ジタイ
+態度,attitude,タイド
+妊娠,pregnancy,ニンシン
+更新,renewal,コウシン
+共通,common,キョウツウ
+物件,property,ブッケン
+突然,suddenly,トツゼン
+規定する,to regulate (verb),キテイスル
+マンション,condominium,マンション
+単に,simply,タンニ
+防ぐ,to prevent (verb),フセグ
+無駄な,wasteful (adj),ムダナ
+無駄,waste,ムダ
+負う,to bear (verb),オウ
+話する,to talk (verb),ハナシスル
+旨,purpose,ムネ
+消える,to disappear (verb),キエル
+保つ,to maintain (verb),タモツ
+パターン,pattern,パターン
+代わり,substitute,カワリ
+恐れ,fear,オソレ
+奴,guy,ヤツ
+思想,thought,シソウ
+明日,tomorrow,アス
+勤務,employment,キンム
+登る,to climb (verb),ノボル
+交渉,negotiation,コウショウ
+抑える,to suppress (verb),オサエル
+論文,thesis,ロンブン
+テスト,test,テスト
+育つ,to grow up (verb),ソダツ
+全然,not at all,ゼンゼン
+占める,to occupy (verb),シメル
+暮らす,to live (verb),クラス
+歌,song,ウタ
+狭い,narrow (adj),セマイ
+外部,external,ガイブ
+地図,map,チズ
+増加する,to increase (verb),ゾウカスル
+赤,red,アカ
+次に,next,ツギニ
+結ぶ,to tie (verb),ムスブ
+株式会社,corporation,カブシキガイシャ
+先輩,senior,センパイ
+父親,father,チチオヤ
+世の中,world,ヨノナカ
+放射線,radiation,ホウシャセン
+増加,increase,ゾウカ
+意味する,to mean (verb),イミスル
+やや,somewhat,ヤヤ
+入力する,to input (verb),ニュウリョクスル
+アクセス,access,アクセス
+栄養,nutrition,エイヨウ
+別に,separately,ベツニ
+コンピューター,computer,コンピューター
+戦う,to fight (verb),タタカウ
+北,north,キタ
+重ねる,to pile (verb),カサネル
+楽な,easy (adj),ラクナ
+楽,ease,ラク
+食,food,ショク
+思考,thinking,シコウ
+中小,small and medium,チュウショウ
+維持する,to maintain (verb),イジスル
+穴,hole,アナ
+実績,achievement,ジッセキ
+あり方,way of being,アリカタ
+見なす,to regard (verb),ミナス
+悩み,worry,ナヤミ
+ゆく,to go (verb),ユク
+手数料,fee,テスウリョウ
+窓口,counter,マドグチ
+役立つ,to be useful (verb),ヤクダツ
+販売する,to sell (verb),ハンバイスル
+固定,fixed,コテイ
+メディア,media,メディア
+皮膚,skin,ヒフ
+処分,disposal,ショブン
+抱く,to embrace (verb),ダク
+回復,recovery,カイフク
+文書,document,モンショ
+最新,latest,サイシン
+スタイル,style,スタイル
+それほど,that much,ソレホド
+南,south,ミナミ
+会長,chairman,カイチョウ
+主人,master,シュジン
+運ぶ,to carry (verb),ハコブ
+呼吸,breathing,コキュウ
+充実する,to enrich (verb),ジュウジツスル
+シーン,scene,シーン
+数値,numerical value,スウチ
+緊急な,urgent (adj),キンキュウナ
+緊急,emergency,キンキュウ
+不明な,unknown (adj),フメイナ
+不明,unknown,フメイ
+サーバー,server,サーバー
+核,nucleus,カク
+旅,travel,タビ
+小説,novel,ショウセツ
+少なくとも,at least,スクナクトモ
+公開,publication,コウカイ
+秋,autumn,アキ
+雪,snow,ユキ
+第三者,third party,ダイサンシャ
+新規な,new (adj),シンキナ
+新規,new,シンキ
+熱,heat,ネツ
+着る,to wear (verb),キル
+ファン,fan,ファン
+前後,before and after,ゼンゴ
+市町村,municipality,シチョウソン
+いくつ,how many,イクツ
+いらっしゃる,to come/go (honorific verb),イラッシャル
+近年,recent years,キンネン
+結婚する,to marry (verb),ケッコンスル
+推進する,to promote (verb),スイシンスル
+卒業,graduation,ソツギョウ
+賃金,wages,チンギン
+越える,to exceed (verb),コエル
+合格,passing,ゴウカク
+まつ,to wait (verb),マツ
+注目する,to focus on (verb),チュウモクスル
+骨,bone,ホネ
+機構,organization,キコウ
+お薦め,recommendation,オススメ
+席,seat,セキ
+喜び,joy,ヨロコビ
+表,front,オモテ
+いったい,what on earth,イッタイ
+管理する,to manage (verb),カンリスル
+二,two,ニ
+要望,request,ヨウボウ
+落とす,to drop (verb),オトス
+主張する,to insist (verb),シュチョウスル
+楽しめる,to be enjoyable (verb),タノシメル
+指示,instruction,シジ
+雑誌,magazine,ザッシ
+追加,addition,ツイカ
+備える,to prepare (verb),ソナエル
+火,fire,ヒ
+自治体,municipality,ジチタイ
+売り上げ,sales,ウリアゲ
+応じる,to respond (verb),オウジル
+幅広い,wide (adj),ハバヒロイ
+適用,application,テキヨウ
+白い,white (adj),シロイ
+保育,childcare,ホイク
+間違う,to make a mistake (verb),マチガウ
+寒い,cold (adj),サムイ
+加入,joining,カニュウ
+殺す,to kill (verb),コロス
+午後,afternoon,ゴゴ
+曲,tune,キョク
+両方,both,リョウホウ
+使い,use,ツカイ
+貴重な,precious (adj),キチョウナ
+貴重,value,キチョウ
+いくら,how much,イクラ
+広げる,to spread (verb),ヒロゲル
+公開する,to make public (verb),コウカイスル
+できるだけ,as much as possible,デキルダケ
+主体,main body,シュタイ
+以来,since,イライ
+トイレ,toilet,トイレ
+最適な,optimal (adj),サイテキナ
+最適,optimum,サイテキ
+削減,reduction,サクゲン
+高まる,to rise (verb),タカマル
+何らかの,some,ナンラカノ
+人類,humanity,ジンルイ
+訪問,visit,ホウモン
+奥,interior,オク
+少年,boy,ショウネン
+ベース,base,ベース
+円,yen,エン
+多少,somewhat,タショウ
+座る,to sit (verb),スワル
+経験する,to experience (verb),ケイケンスル
+測定,measurement,ソクテイ
+アップ,up,アップ
+編集,editing,ヘンシュウ
+受け付け,reception,ウケツケ
+問い,question,トイ
+整理,organization,セイリ
+経つ,to pass (verb),タツ
+よる,night,ヨル
+憲法,constitution,ケンポウ
+生み出す,to produce (verb),ウミダス
+おかしい,strange (adj),オカシイ
+発見,discovery,ハッケン
+余裕,leeway,ヨユウ
+役,role,ヤク
+安定する,to stabilize (verb),アンテイスル
+戦い,fight,タタカイ
+入力,input,ニュウリョク
+太陽,sun,タイヨウ
+比較,comparison,ヒカク
+遺伝子,gene,イデンシ
+協力する,to cooperate (verb),キョウリョクスル
+希望する,to hope (verb),キボウスル
+ニュース,news,ニュース
+男女,men and women,ダンジョ
+強化,strengthening,キョウカ
+保健,health,ホケン
+都合,convenience,ツゴウ
+近づく,to approach (verb),チカヅク
+マイナス,minus,マイナス
+面接,interview,メンセツ
+当日,on the day,トウジツ
+舞台,stage,ブタイ
+チェックする,to check (verb),チェックスル
+株,stock,カブ
+捉える,to capture (verb),トラエル
+担当する,to be in charge (verb),タントウスル
+豊富な,abundant (adj),ホウフナ
+豊富,abundance,ホウフ
+了承,consent,リョウショウ
+教員,teacher,キョウイン
+ライン,line,ライン
+通じる,to communicate (verb),ツウジル
+担う,to bear (verb),ニナウ
+速度,speed,ソクド
+子育て,child-rearing,コソダテ
+支援する,to support (verb),シエンスル
+一言,one word,ヒトコト
+参照,reference,サンショウ
+需要,demand,ジュヨウ
+次第,depending on,シダイ
+民族,ethnic group,ミンゾク
+結論,conclusion,ケツロン
+実態,reality,ジッタイ
+プロセス,process,プロセス
+薄い,thin (adj),ウスイ
+抜ける,to come out (verb),ヌケル
+スピード,speed,スピード
+画,picture,エ
+脂肪,fat,シボウ
+関連する,to relate (verb),カンレンスル
+取り入れる,to incorporate (verb),トリイレル
+水準,standard,スイジュン
+スキル,skill,スキル
+季節,season,キセツ
+芸術,art,ゲイジュツ
+鳥,bird,トリ
+給付,benefit,キュウフ
+若者,youth,ワカモノ
+制作,production,セイサク
+想像,imagination,ソウゾウ
+発行,publication,ハッコウ
+臨床,clinical,リンショウ
+特性,characteristic,トクセイ
+落ち着く,to calm down (verb),オチツク
+まるで,as if,マルデ
+独立,independence,ドクリツ
+窓,window,マド
+発展する,to develop (verb),ハッテンスル
+各地,various regions,カクチ
+ますます,increasingly,マスマス
+開催,holding,カイサイ
+せい,consequence,セイ
+緑,green,ミドリ
+及ぶ,to reach (verb),オヨブ
+心がける,to keep in mind (verb),ココロガケル
+ウマ,horse,ウマ
+指摘,pointing out,シテキ
+終了する,to end (verb),シュウリョウスル
+渡す,to hand over (verb),ワタス
+保存,preservation,ホゾン
+適正な,appropriate (adj),テキセイナ
+適正,appropriateness,テキセイ
+建てる,to build (verb),タテル
+継続する,to continue (verb),ケイゾクスル
+もん,gate,モン
+急な,sudden (adj),キュウナ
+急,urgent,キュウ
+成立する,to be established (verb),セイリツスル
+実行する,to execute (verb),ジッコウスル
+通知,notification,ツウチ
+市長,mayor,シチョウ
+甘い,sweet (adj),アマイ
+証券,securities,ショウケン
+助ける,to help (verb),タスケル
+連れる,to take along (verb),ツレル
+復興,reconstruction,フッコウ
+スペース,space,スペース
+施策,measure,シサク
+性能,performance,セイノウ
+人数,number of people,ニンズウ
+素敵な,wonderful (adj),ステキナ
+素敵,wonderful,ステキ
+床,floor,ユカ
+ウイルス,virus,ウィルス
+形成,formation,ケイセイ
+刺激,stimulus,シゲキ
+シリーズ,series,シリーズ
+仕様,specification,シヨウ
+エリア,area,エリア
+向く,to face (verb),ムク
+報酬,reward,ホウシュウ
+教会,church,キョウカイ
+泣く,to cry (verb),ナク
+州,state,シュウ
+肩,shoulder,カタ
+主張,claim,シュチョウ
+亡くなる,to die (verb),ナクナル
+足りる,to be enough (verb),タリル
+減らす,to reduce (verb),ヘラス
+退職,retirement,タイショク
+分かり,understanding,ワカリ
+歌う,to sing (verb),ウタウ
+腕,arm,ウデ
+出来事,event,デキゴト
+感想,impression,カンソウ
+容易な,easy (adj),ヨウイナ
+容易,ease,ヨウイ
+付近, Nearby,フキン

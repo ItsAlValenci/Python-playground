@@ -9,6 +9,19 @@ BACKGROUND_COLOR = "#B1DDC6"
 FONT_LANGUAGE = ("Arial",40,"italic")
 FONT_WORD = ("Arial",60,"bold")
 
+LANG_CONFIG = {
+    "KR": {
+        "name": "Korean",
+        "original_file": "data/Essential_Korean.csv",
+        "still_learning": "data/words_to_learn_kr.csv"
+    },
+    "JP": {
+        "name": "Japanese",
+        "original_file": "data/Essential_Japanese.csv",
+        "still_learning": "data/words_to_learn_jp.csv"
+    }
+}
+
 icone_card = ("images/card_front.png")
 icone_card_back = ("./images/card_back.png")
 icone_check = ("images/right.png")
@@ -17,17 +30,41 @@ icone_cross = ("./images/wrong.png")
 current_word = {}
 to_learn = {}
 
+active_language = "JP"
 
 # ---------------------------- GETTING LANGUAGE ------------------------------- # 
-try:
-    language_data = pd.read_csv("data/words_to_learn.csv")
 
-except FileNotFoundError:
-    language_data = pd.read_csv(kr_lang_pack)
-    to_learn = language_data.to_dict(orient= "records")
+# if active_language == "KR":
+#     try:
+#         language_data = pd.read_csv("data/words_to_learn_kr.csv")
 
-else:
-    to_learn = language_data.to_dict(orient= "records")
+#     except FileNotFoundError:
+#         language_data = pd.read_csv(kr_lang_pack)
+#         to_learn = language_data.to_dict(orient= "records")
+
+#     else:
+#         to_learn = language_data.to_dict(orient= "records")
+
+# elif active_language == "JP":
+#     try:
+#         language_data = pd.read_csv("data/words_to_learn_jp.csv")
+
+#     except FileNotFoundError:
+#         language_data = pd.read_csv(jp_lang_pack)
+#         to_learn = language_data.to_dict(orient= "records")
+
+#     else:
+#         to_learn = language_data.to_dict(orient= "records")
+
+def load_language_data(language_code):
+    config = LANG_CONFIG[language_code]
+    try:
+        data = pd.read_csv(config["still_learning"])
+    except FileNotFoundError:
+        data = pd.read_csv(config["original_file"])
+    return data.to_dict(orient="records")
+
+to_learn = load_language_data(active_language)
 
 # ---------------------------- GETTINNG WORDS ------------------------------- # 
 
@@ -35,27 +72,44 @@ def next_word():
     global current_word, flip_timer
     window.after_cancel(flip_timer)
     current_word = random.choice(to_learn)
-    word_to_display = current_word["Korean"]
-    canvas.itemconfig(language_label,text= "Korean", fill= "black")
-    canvas.itemconfig(word_label,text= word_to_display,fill= "black")
-    canvas.itemconfig(canvas_image, image= front_card)
+    lang_on_screen = LANG_CONFIG[active_language]["name"]
+    
+    canvas.itemconfig(language_label, text=lang_on_screen, fill="black")
+    canvas.itemconfig(word_label, text=current_word[lang_on_screen], fill="black")
+    canvas.itemconfig(canvas_image, image=front_card)
     flip_timer = window.after(5000, flip_card)
 
 
 
 # ---------------------------- T ------------------------------- # 
+# def flip_card():
+#     canvas.itemconfig(language_label,text= "English",fill= "white")
+#     canvas.itemconfig(word_label,text= current_word["English"], fill= "white")
+#     canvas.itemconfig(canvas_image, image= back_card)
+
 def flip_card():
-    canvas.itemconfig(language_label,text= "English",fill= "white")
-    canvas.itemconfig(word_label,text= current_word["English"], fill= "white")
-    canvas.itemconfig(canvas_image, image= back_card)
+    canvas.itemconfig(language_label, text="English", fill="white")
+    canvas.itemconfig(word_label, text=current_word["English"], fill="white")
+    canvas.itemconfig(canvas_image, image=back_card)
+
 
 # ---------------------------- BUTTOS ACTIONS ------------------------------- # 
+
+# def i_know_it():
+#     to_learn.remove(current_word)
+#     data = pd.DataFrame(to_learn)
+#     if active_language == "KR":
+#         data.to_csv("data/words_to_learn_kr.csv", index=False)
+#     elif active_language == "JP":
+#         data.to_csv("data/words_to_learn_jp.csv", index=False)
+
+#     next_word()
 
 def i_know_it():
     to_learn.remove(current_word)
     data = pd.DataFrame(to_learn)
-    data.to_csv("data/words_to_learn.csv", index=False)
-
+    data.to_csv(LANG_CONFIG[active_language]["still_learning"], index=False)
+    
     next_word()
 
 
@@ -96,8 +150,7 @@ known_button.grid(column=1,row=1)
 unknown_button = Button(image= ney_button, highlightthickness=0, command= i_dont_know_it)
 unknown_button.grid(column=0,row=1)
 
-active_word = next_word()
-
+next_word()
 
 
 window.mainloop()
