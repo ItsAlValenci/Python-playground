@@ -7,7 +7,7 @@ import random
 file_path = "quotes.txt"
 
 
-def email_sender(message="test", ):
+def email_sender(message="test" ):
     load_dotenv()
     EMAIL_PASSWORD = os.getenv("EMAIL_KEY")
 
