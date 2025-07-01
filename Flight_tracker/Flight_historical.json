@@ -2,14 +2,14 @@
   "Albert": [
     {
       "id": 1,
-      "city": "Tokyo",
-      "iataCode": "TYO",
-      "LowestPrice": 800
+      "city": "Los Angeles",
+      "iataCode": "LAX",
+      "LowestPrice": 120
     },
     {
       "id": 2,
-      "city": "Poznan",
-      "iataCode": "POZ",
+      "city": "Tokyo",
+      "iataCode": "TYO",
       "LowestPrice": 800
     },
     {
@@ -20,8 +20,8 @@
     },
     {
       "id": 4,
-      "city": "Dallas",
-      "iataCode": "DFW",
+      "city": "San Antonio",
+      "iataCode": "SAT",
       "LowestPrice": 400
     }
   ]

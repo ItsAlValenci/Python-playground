@@ -1,5 +1,5 @@
 class FlightData:
-    def __init__(self, price, origin_airport, destination_airport, out_date, return_date):
+    def __init__(self, price, origin_airport, destination_airport, out_date, return_date, carrier="N/A"):
         """
         * Limitation: works only for round trips
         * Constructor for initializing a new flight data instance with specific Parameters:
@@ -8,12 +8,14 @@ class FlightData:
         - destination_airport: The IATA code for the flight's destination airport.
         - out_date: The departure date for the flight.
         - return_date: The return date for the flight.
+        - carrier: The airline carrier for the flight.
         """
         self.price = price
         self.origin_airport = origin_airport
         self.destination_airport = destination_airport
         self.out_date = out_date
         self.return_date = return_date
+        self.carrier = carrier
 
 def find_cheapest_flight(data):
     """
@@ -31,8 +33,13 @@ def find_cheapest_flight(data):
     # Handle empty data if no flight or Amadeus rate limit exceeded
     if data is None or not data['data']:
         print("No flight data")
-        return FlightData("N/A", "N/A", "N/A", "N/A", "N/A")
-
+        return FlightData("N/A", "N/A", "N/A", "N/A", "N/A", "search")
+    
+    # Get the carrier dictionary from the API response
+    carrier_dict = {}
+    if "dictionaries" in data and "carriers" in data["dictionaries"]:
+        carrier_dict = data["dictionaries"]["carriers"]
+    
     # Data from the first flight in the json
     first_flight = data['data'][0]
     lowest_price = float(first_flight["price"]["grandTotal"])
@@ -41,9 +48,12 @@ def find_cheapest_flight(data):
     out_date = first_flight["itineraries"][0]["segments"][0]["departure"]["at"].split("T")[0]
     return_date = first_flight["itineraries"][1]["segments"][0]["departure"]["at"].split("T")[0]
     
+    # Get carrier code and map to full name if available
+    carrier_code = first_flight["validatingAirlineCodes"][0] if "validatingAirlineCodes" in first_flight and first_flight["validatingAirlineCodes"] else "search"
+    carrier_name = carrier_dict.get(carrier_code, carrier_code)  # Use code as fallback if name not found
 
     # Initialize FlightData with the first flight for comparison
-    cheapest_flight = FlightData(lowest_price, origin, destination, out_date, return_date)
+    cheapest_flight = FlightData(lowest_price, origin, destination, out_date, return_date, carrier_name)
 
     for flight in data["data"]:
         price = float(flight["price"]["grandTotal"])
@@ -53,7 +63,12 @@ def find_cheapest_flight(data):
             destination = flight["itineraries"][0]["segments"][0]["arrival"]["iataCode"]
             out_date = flight["itineraries"][0]["segments"][0]["departure"]["at"].split("T")[0]
             return_date = flight["itineraries"][1]["segments"][0]["departure"]["at"].split("T")[0]
-            cheapest_flight = FlightData(lowest_price, origin, destination, out_date, return_date)
-            print(f"Lowest price to {destination} is ${lowest_price}")
+            
+            # Get carrier code and map to full name if available
+            carrier_code = flight["validatingAirlineCodes"][0] if "validatingAirlineCodes" in flight and flight["validatingAirlineCodes"] else "Search"
+            carrier_name = carrier_dict.get(carrier_code, carrier_code)  # Use code as fallback if name not found
+            
+            cheapest_flight = FlightData(lowest_price, origin, destination, out_date, return_date, carrier_name)
+            print(f"Lowest price to {destination} is ${lowest_price} from {carrier_name}")
 
     return cheapest_flight

@@ -3,12 +3,17 @@ from datetime import datetime, timedelta
 from data_manager import DataManager
 from flight_search import FlightSearch
 from flight_data import find_cheapest_flight
+from notification_manager import NotificationManager
 
 data_manager = DataManager()
 json_data = data_manager.get_destination_data()
 print("Data loaded successfully.\n")
 
 flight_search = FlightSearch()
+
+# Initialize notification manager for sending alerts
+notification_manager = NotificationManager()
+print("Notification manager initialized.\n")
 
 # Setting City of Origin (IATA CODE)
 
@@ -38,18 +43,27 @@ else:
 # ==================== Search for Flights ====================
 
 # we want to search for the following 6 months.
-tomorrow = datetime.now() + timedelta(days=1)
-six_month_from_today = datetime.now() + timedelta(days=(6 * 30))
+departure_date = datetime.now() + timedelta(days=30)
+return_date = departure_date + timedelta(days=(7*3))
 
 for destination in json_data["Albert"]:
     print(f"Getting rates for {ORIGIN_CITY_IATA} to {destination['city']}...")
     flights = flight_search.check_flights(
         ORIGIN_CITY_IATA,
         destination["iataCode"],
-        from_time=tomorrow,
-        to_time=six_month_from_today
+        from_time=departure_date,
+        to_time=return_date
     )
     cheapest_flight = find_cheapest_flight(flights)
-    print(f"{destination['city']}: ${cheapest_flight.price}")
+    print(f"{destination['city']}: ${cheapest_flight.price} from {cheapest_flight.carrier}\n")
+    
+    # Send notification to Discord if a valid flight was found
+    if cheapest_flight.price != "N/A" and cheapest_flight.price < destination["LowestPrice"]:
+        notification_manager.send_flight_deal_notification(
+            flight_data=cheapest_flight,
+            city=destination['city']
+        )
+        print(f"Discord notification sent for {destination['city']}")
+    
     # Slowing down requests to avoid rate limit
     time.sleep(2)
